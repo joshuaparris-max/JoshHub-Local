@@ -1,5 +1,5 @@
 import { db } from "./index";
-import { apps } from "@shared/schema";
+import { apps } from "../shared/schema";
 
 const seedApps = [
   {
@@ -7,57 +7,68 @@ const seedApps = [
     description: "A smart conversational agent powered by advanced LLMs.",
     icon: "Terminal",
     tags: ["AI", "React", "Node.js"],
-    link: "#"
+    link: "#",
+    status: "active",
+    notes: null,
   },
   {
     title: "Project Nexus",
     description: "Collaborative project management tool for remote teams.",
     icon: "Layers",
     tags: ["Productivity", "SaaS", "Real-time"],
-    link: "#"
+    link: "#",
+    status: "active",
+    notes: null,
   },
   {
     title: "DevDash",
     description: "All-in-one dashboard for monitoring server health and metrics.",
     icon: "Cpu",
     tags: ["DevOps", "Dashboard", "Monitoring"],
-    link: "#"
+    link: "#",
+    status: "active",
+    notes: null,
   },
   {
     title: "CodeSnippet",
     description: "Share and discover beautiful code snippets instantly.",
     icon: "Code",
     tags: ["Social", "Developer", "Utility"],
-    link: "#"
+    link: "#",
+    status: "active",
+    notes: null,
   },
   {
     title: "CryptoWatch",
     description: "Real-time cryptocurrency tracker and portfolio manager.",
     icon: "Zap",
     tags: ["Finance", "API", "Charts"],
-    link: "#"
+    link: "#",
+    status: "broken",
+    notes: "API endpoint deprecated",
   },
   {
     title: "Global Atlas",
     description: "Interactive 3D globe with demographic data visualization.",
     icon: "Globe",
     tags: ["Visualization", "3D", "Education"],
-    link: "#"
+    link: "#",
+    status: "active",
+    notes: null,
   }
 ];
 
 async function seed() {
   console.log("Seeding database...");
   
-  // Check if apps already exist
   const existingApps = await db.select().from(apps);
   
   if (existingApps.length > 0) {
     console.log("Database already seeded. Skipping...");
+    process.exit(0);
     return;
   }
 
-  // Insert seed apps
   await db.insert(apps).values(seedApps);
   
   console.log(`Seeded ${seedApps.length} apps successfully!`);
