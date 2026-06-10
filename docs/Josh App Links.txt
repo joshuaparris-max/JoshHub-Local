@@ -1,0 +1,1748 @@
+﻿Josh Apps 2026 - Numbered for Reference
+
+
+1. Josh Hub - https://josh-hub-two.vercel.app/dashboard 
+  
+
+(All in One - Josh App)
+
+
+Dubbo / DCS Apps / Games 
+
+
+2. DCS Companion - https://joshuaparris-max.github.io/DCSCompanion 
+  
+
+
+
+3. DCS Prep App -  https://dcs-prep.vercel.app/
+  
+
+4. ParrisDubboMover - https://parris-dubbo-mover-app-main-client.vercel.app/
+(Note API / Backend Server is not working for this one)
+  
+
+
+
+5. Campaign Copilot - https://joshuaparrisdadlan-stack.github.io/campaign-copilot/
+  
+
+
+
+
+
+________________
+
+Games
+6. Whispering Wilds - 3 Versions
+https://joshuaparris-max.github.io/WhirringWilderness/
+  
+
+6. https://joshuaparrisdadlan-stack.github.io/whispering-wilds/
+  
+
+6. WhisperingWilds by joshualparris
+  
+
+7. King Killer Chronicle Adventure - KingKiller Chronicle - Patrick Rothfuss
+https://joshualparris.github.io/kkc-adventure/
+  
+
+https://rothfuss-kkc-adventure-production.up.railway.app/ - No longer live here
+  
+
+8. Aetheria - https://skill-deploy-fs1ircxjkn.vercel.app/
+  
+
+9. Neverwinter RPG - https://skill-deploy-dwxq7kw5pa.vercel.app/
+  
+
+https://skill-deploy-wbzruert4j-codex-agent-deploys.vercel.app
+  
+
+10. Forbidden Lands Lite - https://skill-deploy-7tfaq44eli-codex-agent-deploys.vercel.app
+  
+
+
+
+11. Serenity - Firefly RPG - http://skill-deploy-ubokv1ax71.vercel.app/
+  
+
+
+
+12. Mystery Depths - https://joshualparris.itch.io/mysterydepths
+  
+
+12. https://joshuaparrisdadlan-stack.github.io/MysteriousDepths/
+  
+
+13. Simple RPG - SimpleRPG by joshualparris
+  
+
+13. https://joshuaparrisdadlan-stack.github.io/LetsPlayDnd/
+  
+
+
+
+14. Infinite Office - InfiniteOffice by joshualparris
+  
+
+https://joshuaparrisdadlan-stack.github.io/OrgScape/
+  
+
+
+
+15. Null - https://joshualparris.itch.io/null-html-game
+  
+
+https://joshuaparrisdadlan-stack.github.io/Null/
+  
+
+Vercel apps
+16. Takeaway tonight - https://skill-deploy-gzaqtty7hb-codex-agent-deploys.vercel.app
+  
+
+
+
+17. JoshSim - Life Simulator - https://skill-deploy-wn74y0trpc-codex-agent-deploys.vercel.app
+  
+
+18. Parris Budget App - https://parris-budget-app.vercel.app/
+  
+
+19. JoshHealthHub  - https://skill-deploy-ibq7zs9hn6-codex-agent-deploys.vercel.app
+  
+
+
+
+20. DrunkJoshGuardian - https://skill-deploy-oww33mfjrh-codex-agent-deploys.vercel.app
+  
+
+
+
+21. JoshHub Apps - https://josh-hub-96no.vercel.app/apps
+  
+
+22. Hug Coach
+https://hug-coach.vercel.app/
+  
+
+
+
+23. Clearcore  -https://clearcore.vercel.app/
+  
+
+24. Lifehub Dashboard - https://lifehubdashboard.vercel.app/
+  
+
+25. Parris Piano App
+https://parris-piano.vercel.app/
+  
+
+
+
+26. Parris Tech App - https://parris-tech-app.vercel.app/ (mac one)
+  
+
+27. Parris Tech Services App - https://parris-tech-services-app.vercel.app/ (windows one)
+  
+
+6. https://joshuaparrisdadlan-stack.github.io/whispering-wilds/
+  
+
+
+
+13. https://josh-hub-96no.vercel.app/games/classic-dnd-text/index.html
+  
+
+28. https://josh-hub-96no.vercel.app/games/dnd-rpg-dungeon/index.html
+  
+
+10. https://josh-hub-96no.vercel.app/games/forbidden-quests/index.html
+  
+
+
+
+14. Infinite Office / Orgscape  - https://josh-hub-96no.vercel.app/games/infinite-office/index.html
+  
+
+29. Max Starhaven - https://josh-hub-96no.vercel.app/games/max/index.html
+  
+
+30. Midnight Line - https://josh-hub-96no.vercel.app/games/midnight-line/index.html
+  
+
+12. https://joshuaparrisdadlan-stack.github.io/MysteriousDepths/
+  
+
+31. Dark Realms - https://josh-hub-96no.vercel.app/games/newgame/index.html
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/joshualparris/JoshHub/d7521ab/public/games/newgame/index.html 
+  
+
+15. https://joshuaparrisdadlan-stack.github.io/Null/
+  
+
+
+
+14. https://josh-hub-96no.vercel.app/games/orgscape/index.html
+  
+
+
+
+14. https://joshuaparrisdadlan-stack.github.io/OrgScape/
+  
+
+
+
+13. https://joshuaparrisdadlan-stack.github.io/LetsPlayDnd/
+  
+
+1. https://josh-hub-96no.vercel.app/
+  
+
+
+
+29. https://josh-hub-96no.vercel.app/games/max/index.html
+  
+
+32. https://joshualparris.github.io/wastes-courier-roguelike/ 
+  
+
+
+
+33. Different version of Whispering Wilds
+https://joshuaparris-max.github.io/WhirringWilderness/
+  
+
+6. https://joshuaparrisdadlan-stack.github.io/whispering-wilds/
+  
+
+34. Boundary Road Panos
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/joshualparris/JoshHub/3de1a67/public/games/boundary-road/index.html 
+  
+
+
+
+  
+
+file:///C:/Users/joshu_w0zb8cp/OneDrive%20-%20Dubbo%20Christian%20School/Documents/03_Projects/JoshHub/JoshHub/public/panos/boundary-road/index.html
+
+
+  
+
+file:///C:/Users/joshu_w0zb8cp/OneDrive%20-%20Dubbo%20Christian%20School/Documents/03_Projects/JoshHub/JoshHub/public/panos/index.html
+________________
+35. Neverwinter Tails v1
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/joshualparris/JoshHub/8d02ac4/public/games/neverwinter-tales/index.html
+  
+
+________________
+
+
+35. Neverwinter Tails v2
+  
+
+file:///C:/Users/joshu_w0zb8cp/OneDrive%20-%20Dubbo%20Christian%20School/Documents/03_Projects/JoshHub/public/games/neverwinter-tales/index.html
+________________
+36. Sylvie Coregulation App - https://skill-deploy-a7nrkvc4gz.vercel.app/
+  
+
+37. Wilds Sail West
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/joshualparris/JoshHub/41dfcef/public/games/wilds-sail-west/index.html
+
+
+  
+
+
+
+38 . Wilds Main
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/joshualparris/JoshHub/d7521ab/public/games/wilds-main/index.html
+
+
+  
+________________
+
+newfileqqqwertuhvgjkk.py
+joshualparris/newfileqqqwertuhvgjkk.py
+
+
+39. BucklandBlocks
+39. joshualparris/BucklandBlocks
+
+
+owner
+	name
+	visibility
+	category
+	status
+	size
+	notes
+	joshualparris
+	BucklandBlocks
+	public
+	game
+	active prototype
+	3602
+	Ambitious browser voxel sandbox.
+	joshualparris
+	BucklandBlocks1
+	private
+	game
+	placeholder
+	0
+	Private placeholder or abandoned fork.
+	joshuaparrisdadlan-stack
+	BucklandGame
+	public
+	game
+	prototype
+	14
+	Small experiment.
+	
+
+
+
+1. JoshHub
+1. joshualparris/JoshHub
+6. Whispering-Wilds
+6. joshualparris/Whispering-Wilds
+22. HugCoach
+22. joshualparris/HugCoach
+40. energyquest
+40. joshualparris/energyquest
+3. DCSPrep
+3. joshualparris/DCSPrep
+39. BucklandBlocks1
+39. joshualparris/BucklandBlocks1
+26. ParrisTechApp
+26. joshualparris/ParrisTechApp
+27. ParrisTechServicesApp
+27. joshualparris/ParrisTechServicesApp
+24. LifeHub
+24. joshualparris/LifeHub
+23. ClearCore
+23. joshualparris/ClearCore
+41. JoshCoach
+41. joshuaparris-max/JoshCoach
+32. wastes-courier-roguelike
+32. joshualparris/wastes-courier-roguelike
+42. JoshTapApp
+42. joshuaparrisdadlan-stack/JoshTapApp
+42. JoshTapApp
+42. joshualparris/JoshTapApp
+See - JoshNFCAndroidApp 
+43. JoshNFCAudio
+43. joshualparris/JoshNFCAudio
+  
+
+4. ParrisDubboMoverApp-Main
+4. joshualparris/ParrisDubboMoverApp-Main
+
+
+1. JoshHub
+1. joshualparris/JoshHub
+6. WhirringWilderness
+6. joshuaparris-max/WhirringWilderness
+5. campaign-copilot
+5. joshuaparris-max/campaign-copilot
+23. ClearCore
+23. joshualparris/ClearCore
+4. ParrisDubboMoverApp
+4. joshuaparris-max/ParrisDubboMoverApp
+________________
+
+
+49. Max
+49. joshuaparris-max/Max - Guess the Number
+  
+
+24. lifehubdashboard
+24. joshuaparris-max/lifehubdashboard
+41. JoshCoach
+41. joshuaparris-max/JoshCoach
+random-play
+joshuaparris-max/random-play
+26. ParrisTechApp
+26. joshualparris/ParrisTechApp
+25. ParrisPiano
+25. joshuaparris-max/ParrisPiano
+Wild2
+joshuaparris-max/Wild2
+exitbackup
+joshuaparris-max/exitbackup
+30. Midnight-Line
+30. joshuaparris-max/Midnight-Line
+________________
+
+
+44. StarHaven
+44. joshuaparris-max/StarHaven
+https://skill-deploy-kkckqq5c2j.vercel.app/ 
+  
+
+  
+
+18. ParrisBudgetApp
+18. joshuaparris-max/ParrisBudgetApp
+10. ForbiddenQuests
+10. joshuaparris-max/ForbiddenQuests
+4. pdm-parris-dubbo-mover
+4. joshuaparris-max/pdm-parris-dubbo-mover
+2. DCSCompanion
+2. joshuaparris-max/DCSCompanion
+
+
+________________
+
+
+45. Project Hub - Local Project Arcade
+  
+
+
+
+46. AA Game Adventure
+  
+
+47. AA Module DND - Tile RPG
+  
+________________
+
+48. Buckland Street Game
+  
+
+file:///C:/Users/joshu_w0zb8cp/OneDrive%20-%20Dubbo%20Christian%20School/Documents/03_Projects/JoshHub/JoshHub/public/games/buckland-v1/index.html
+________________
+50. Neon Dash
+
+
+file:///C:/Users/joshu_w0zb8cp/OneDrive%20-%20Dubbo%20Christian%20School/Documents/03_Projects/JoshHub/public/games/neon-dash/index.html
+
+
+  
+
+
+
+51. NebulaDice
+https://joshualparris.github.io/NebulaDice-Browser/ 
+  
+
+See: https://drive.google.com/drive/u/0/folders/1vPzC1DwbcepD4L7xtd0WGakhzivvwSVp 
+________________
+52. Josh App Hub
+https://skill-deploy-rrs4sconcx.vercel.app/
+  
+
+
+
+53A. Parris Life Dashboard
+https://joshualparris.github.io/Parris-Life-Dashboard/
+
+
+  
+
+________________
+
+
+53B - https://joshualparris.github.io/Parris-Life-Dashboard/games/
+  
+
+54 - Elodin Lore - https://joshualparris.github.io/ElodinDeepLore/
+  
+
+55 - Elodin Dossier
+https://joshualparris.github.io/ElodinDeepLore/ElodinDeepLore.html
+  
+
+56 - Elodin Lore - https://joshualparris.github.io/elodin-deep-lore/
+  
+
+57 - Elodin Atlas - https://joshualparris.github.io/elodin-deep-lore/atlas.html
+  
+
+58 - Elodin Compendium - https://joshualparris.github.io/elodin-deep-lore/ElodinDeepLore.html
+  
+________________
+
+
+
+# Full App & Game Review — Parris Portfolio
+## Ranked: Closest to AAA Indie → Prototype/Stub
+
+Scoring dimensions: Polish, Features, Functionality, Fun/Engagement, Completeness, AAA Potential
+
+---
+
+## TIER S — AAA Indie Candidate
+*Could ship on itch.io or Product Hunt today and hold its own*
+
+---
+
+### 1. WHISPERING WILDS v2 (PyScript)
+**URL:** https://joshuaparrisdadlan-stack.github.io/whispering-wilds/
+**Score: 9.2 / 10**
+
+The standout of the entire portfolio. Feature density is exceptional for a solo browser game.
+
+**Features:**
+- Full text adventure engine running Python in-browser via PyScript
+- 5 playstyle profiles (Storybook → Hardcore)
+- 5 guidance levels (Off → Hand-in-Hand)
+- Granular difficulty tuning: encounter rate, flee success, XP gain, drop luck, vendor prices, puzzle hints — each individually adjustable
+- Safety options (no random attacks, can't be attacked, hide attack verbs)
+- Read Aloud + Simplify Text accessibility features
+- Multiple themes (Dark Forest, Light Meadow)
+- Dyslexic font toggle
+- Compact mode
+- Sound + Music toggles
+- Leaderboards
+- Vendor/shop system
+- Quest tracking panel
+- Inventory panel
+- Map panel with display-on-move
+- XP progress bar
+- Export/Import save
+- Random seed system
+- Dev mode
+- Parental controls with PIN lock
+- Tutorial bar
+- Arrow key navigation
+
+**What holds it back from 10:** No visual art/assets, no audio currently active, no story cinematics or title screen. The PyScript load time is a friction point.
+
+**AAA path:** Add a title screen, ambient audio, a hand-drawn map image, and a few key art pieces. This is already a better-designed game than most itch.io paid titles.
+
+---
+
+### 2. PARRIS TECH SERVICES APP (Windows)
+**URL:** https://parris-tech-services-app.vercel.app/
+**Score: 9.0 / 10**
+
+The most functionally complete app in the portfolio. A legitimate business tool.
+
+**Features:**
+- Full client management (add, edit, search, filter, find duplicates, CSV import/export)
+- Full appointment system (recurring, status tracking, device checklist, follow-up reminders)
+- Invoice creation with line items, time blocks, tax (GST), presets, payment URL, Zoho Books integration
+- Reconciliation view with aging report, bulk mark paid, finance summary, CSV export
+- Templates & assets with variable substitution (`{{name}}`, `{{datetime}}`)
+- Quick actions with deep links (Calendly, JoshHub, ParrisTechApp)
+- ICS calendar export
+- Analytics dashboard
+- Encrypted backup export/import with passphrase
+- Dry-run import for safety
+- Onboarding tips system
+- Themed branding (Default, Irish, Aussie, Halloween, Christmas)
+- Logo upload
+- Keyboard shortcuts (Ctrl+1-4, Ctrl+S)
+- Help & services section with FAQs, changelog, cleanup checklists
+- Windows + Mac cleanup checklists
+- Local storage persistence
+- Print invoice view
+- Demo data seeding (3 modes)
+
+**What holds it back from 10:** localStorage only (no cloud sync), no mobile-optimised layout, no actual payment processing.
+
+---
+
+### 3. PARRIS TECH APP (Mac)
+**URL:** https://parris-tech-app.vercel.app/
+**Score: 8.5 / 10**
+
+A polished guided tech support session tool — purpose-built and well-executed.
+
+**Features:**
+- Session timer with remaining time
+- Client profile creation with devices, past issues, contact info
+- Session length + location (onsite/remote) settings
+- Timezone support
+- Session templates (save, delete, apply)
+- Dynamic checklist with undo last, collapse completed
+- Progress tracking (N of N done)
+- Invoice line items with subtotal, tax, total
+- End-of-visit summary generation
+- Print view + PDF invoice export
+- JSON export (all sessions)
+- Import sessions
+- Rules editor — build custom modules with steps, questions, risk notes, timebox
+- Client profiles manager
+- Follow-ups & reminders with ICS export and email draft generation
+- Session history with client filter
+- Reports with time range filter + CSV export
+- Metrics dashboard
+- Themes (Dark, Light, Green, Blue)
+- Offline detection
+
+**What holds it back:** Overlaps significantly with ParrisTechServicesApp — feels like it should be merged or clearly differentiated. No cloud sync.
+
+---
+
+### 4. LIFEHUB DASHBOARD
+**URL:** https://lifehubdashboard.vercel.app/
+**Score: 8.3 / 10**
+
+Staggeringly feature-rich. The most ambitious single-page app in the portfolio.
+
+**Features:**
+- Multi-panel dashboard with 20+ named sections
+- Kiosk mode with custom rotation, panel dwell time, drag-to-reorder, presets
+- Focus mode + Calm mode
+- Multiple themes (Modern, Classic, High Contrast, Irish, Aussie, Halloween, Christmas, Easter)
+- Compact spacing, readable font, no shadows, pixel mode
+- Copilot natural language search (`/` shortcut)
+- Wellbeing snapshot (Welltory CSV upload, stress/energy/focus/HRV)
+- Calendar panel with .ics upload + agenda
+- Activity timeline (events, reminders, files, downloads, automations, wellbeing, backups)
+- Inbox triage board (drag-to-column)
+- Downloads watcher + auto-triage heuristics
+- Automation scheduler with queue, dry run, presets, JSON import/export
+- System health freshness checks
+- Resurface carousel (90-day untouched files)
+- Achievement system with badges
+- Weekly LifeHub routine checklist
+- Resource spotlight
+- Playable projects launcher
+- Project scratchpad with promote-to-LifeHub, copy, download .md
+- Backup integrity panel
+- D&D tools: skill checks, saves, ability scores, magic item attunement
+- Character creator (race, class, background, XP)
+- Mini adventure (Clocktower Heist — choice-based)
+- Encounter tracker (inbox dragon, downloads goblins — gamified tasks)
+- Dice roller (d4–d20, encounter, loot)
+- Tavern banter rotator
+- Daily quest with reroll + streak
+- Text game (PyScript Wilds engine, 3 save slots, autosave)
+- Text game v2 (expanded sandbox build)
+- Quick actions with custom add + drag/pin
+- Daily realm event
+- File area deep-links
+- Keyboard shortcuts (I, W, F, P, H, A, ?, /)
+- Visitor of the Day (fun randomiser)
+
+**What holds it back:** It's almost too much — navigation friction is high, many panels are empty on first load, local-only with no sync. The gamification and work tools compete for attention rather than complement.
+
+---
+
+## TIER A — Polished, Shippable with Minor Work
+
+---
+
+### 5. JOSHHUB (josh-hub-two)
+**URL:** https://josh-hub-two.vercel.app/dashboard
+**Score: 7.8 / 10**
+
+Clean, coherent personal OS with strong navigation and good information architecture.
+
+**Features:**
+- Dashboard with daily briefing, tasks, events, notes, health snapshot
+- Quick launch (first 6 apps)
+- Broken items panel (active friction tracking — smart)
+- Health snapshot (sleep 7d avg, movement, nutrition, latest metric)
+- Pinned areas
+- Family rhythm section
+- Recent activity
+- Focus cues (short, faith-integrated)
+- Full nav: Apps, Platform, Projects, Everything Map, Life, Care, Capture, Lifestyle Report, Notes, Tasks, Routines, Studio
+- Global search (Ctrl+K)
+- Theme toggle
+- Keyboard shortcut system
+
+**What holds it back:** Many panels empty on first load (no data), health/notes/tasks show zeroes. Feels like infrastructure waiting for content. The josh-hub-96no version is richer.
+
+---
+
+### 6. JOSHHUB APPS (josh-hub-96no)
+**URL:** https://josh-hub-96no.vercel.app/apps
+**Score: 7.6 / 10**
+
+The catalogue/launcher version — extremely well-organised with tagging, filtering, and status tracking. Strong meta-app.
+
+**Features:**
+- Full searchable/filterable app catalogue (Category + Status filters)
+- Tags per app
+- Status system (OK / BROKEN / WIP / ARCHIVED)
+- Multiple links per entry (Live, Repo, Docs, Drive, itch.io, Fables GG)
+- Hosts local game builds at `/games/` paths
+- Links to 80+ items across all life domains
+
+---
+
+### 7. NULL
+**URL:** https://joshuaparrisdadlan-stack.github.io/Null/
+**Score: 7.5 / 10**
+
+The most conceptually distinctive game in the portfolio. Genuinely unusual design.
+
+**Features:**
+- Text adventure with command parser
+- Rope/bead sensory mechanic ("Pings" system) — unique
+- Bell/sensate tracker
+- Known Routes map
+- Inventory
+- Logbook (event recording)
+- Turn counter
+- Save / Load / Restart
+- Tactile design philosophy baked into UI (SVG bead assets)
+- Accessibility-forward tone and content warnings
+
+**What holds it back:** Content depth unknown without playing through. UI is minimal — intentionally so, but risks feeling sparse to a new player. Could use a short onboarding passage.
+
+**AAA path:** The Pings mechanic is genuinely publishable as a concept. Expand the world, add ambient audio, and this is an art game that would get coverage.
+
+---
+
+### 8. ORGSCAPE / INFINITE OFFICE
+**URL:** https://joshuaparrisdadlan-stack.github.io/OrgScape/ and https://josh-hub-96no.vercel.app/games/orgscape/index.html
+**Score: 7.2 / 10**
+
+Solid roguelike structure with strong thematic identity.
+
+**Features:**
+- Floor map
+- Inventory
+- Task system
+- Org chart
+- Faction reputation (multi-faction — significant design)
+- Help command system
+- Navigation (go north/south etc.)
+- Missing Directive quest
+- Dark/light mode toggle
+- Command history
+
+**What holds it back:** The UI panels are all empty on load — game world needs more content/rooms. Faction system promises depth that needs delivering.
+
+---
+
+### 9. MYSTERY DEPTHS
+**URL:** https://joshuaparrisdadlan-stack.github.io/MysteriousDepths/
+**Score: 7.0 / 10**
+
+Well-presented text adventure with proper polish signals.
+
+**Features:**
+- Text adventure engine
+- 3 themes (Deep Sea, Derelict, Stardrift)
+- Sound toggle
+- Animation toggle
+- Save checkpoint / Load checkpoint
+- Toggle log
+- Settings panel
+
+**What holds it back:** Content depth unclear from HTML alone — the settings system is polished but the game world needs investigation. Three themes is a genuine quality signal.
+
+---
+
+### 10. DCS PREP APP
+**URL:** https://dcs-prep.vercel.app/
+**Score: 7.0 / 10**
+
+Professionally executed onboarding tool. Clean, purposeful, complete.
+
+**Features:**
+- 3 training modules with section counts (5, 10, 6 sections respectively)
+- Progress tracking per module (% complete)
+- Overall completion tracker (0/3 modules, 0%)
+- Navigation (Home, Modules, Progress, Settings)
+- Proper branding (DCS / Dubbo Christian School)
+- Module deep-links
+
+**What holds it back:** Only 3 modules, no gamification, no certificates, no quiz/assessment layer.
+
+---
+
+### 11. HUG COACH
+**URL:** https://hug-coach.vercel.app/
+**Score: 6.8 / 10**
+
+Well-designed coaching/wellness app with proper RPG progression metaphor.
+
+**Features:**
+- Level/XP system (Level 1 Steady Starter, 100 XP to level 2)
+- Sparks currency
+- Streak tracking
+- Spaced repetition review system ("Reviews due")
+- Topics browser
+- Rituals logging with daily count
+- Momentum section
+- Store
+- Summary page
+- Multi-section nav (Dashboard, Topics, Review, Rituals, Summary, Store)
+
+**What holds it back:** No content loaded on first visit — topics/lessons/rituals all empty. The structure is excellent but the content layer needs populating.
+
+---
+
+## TIER B — Functional, Needs Content or Polish
+
+---
+
+### 12. DARK REALMS (NewGame)
+**URL:** https://josh-hub-96no.vercel.app/games/newgame/index.html
+**Score: 6.5 / 10**
+
+Most mechanically complete combat RPG in the portfolio.
+
+**Features:**
+- Full character creation: 4 races with stat bonuses, 4 classes, 6 attributes (STR/DEX/CON/INT/WIS/CHA), point buy (27 pts), auto-assign, standard array
+- WASD + arrow key movement
+- Combat system (Attack, Defend, Flee)
+- Merchant system
+- NPC interaction panel
+- Inventory
+- Combat log
+- Space to interact/talk
+- E for inventory
+- HP, Level, XP, Gold tracking
+- Race-specific bonuses displayed in character creation
+
+**What holds it back:** No story, no world depth, map content unclear. The systems are there but the world needs populating.
+
+---
+
+### 13. CLASSIC D&D TEXT ADVENTURE
+**URL:** https://josh-hub-96no.vercel.app/games/classic-dnd-text/index.html
+**Score: 6.3 / 10**
+
+Good feature set — grid movement + character creation is a strong combo.
+
+**Features:**
+- D&D 5e character creator: 4 races, 4 classes, background, alignment
+- 3 ability score methods: Standard Array, Roll 4d6 drop lowest, Point Buy (27)
+- Grid movement with minimap
+- Arrow key navigation
+- HP/AC/Gold display
+- Back to Hub link
+- Randomise button
+- Reset button
+- Coordinates display
+
+**What holds it back:** The game world behind character creation needs investigation — HTML was minimal on fetch. Likely more content than visible.
+
+---
+
+
+________________
+ ### 14. D&D RPG DUNGEON
+**URL:** https://josh-hub-96no.vercel.app/games/dnd-rpg-dungeon/index.html 
+**Score: 6.2 / 10**
+  
+
+Clean combat dungeon crawler with clear win condition.
+
+**Features:**
+- Hero creation (name, class, race)
+- Randomise button
+- Combat: Attack, Magic, Heal (potion), Run, Explore/Continue
+- Hero stats: HP, Level, ATK, DEF, MAG, Potions, Gold
+- Enemy panel: HP, ATK, DEF
+- Level 1–5 progression with win condition
+- Auto-save (tab-level)
+- Adventure log
+- Reset run
+- Tip system
+
+**What holds it back:** Browser port of a Python script — feels like a conversion rather than a native design. Limited depth.
+
+---
+
+
+________________
+ ### 15. CAMPAIGN COPILOT
+**URL:** https://joshuaparrisdadlan-stack.github.io/campaign-copilot/
+**Score: 6.0 / 10**
+
+Minimal content returned on fetch — D&D 5e session assistant. Title and branding present, full feature set not visible from HTML alone. From JoshHub catalogue: full Campaign Copilot UI seeded for specific campaigns (Spider Queen, Pets of the Spider Queen). Likely feature-rich in-session.
+
+---
+
+### 16. PARRIS BUDGET APP
+**URL:** https://parris-budget-app.vercel.app/
+**Score: 5.8 / 10**
+
+Login-gated — "Josh & Kristy Budget Keeper." Cannot assess features without auth. From JoshHub description: live Vercel deployment for family budgeting. Likely solid given the other finance-adjacent tools in the portfolio.
+
+---
+
+### 17. PARRIS PIANO APP
+**URL:** https://parris-piano.vercel.app/
+**Score: 5.5 / 10**
+
+Well-organised launcher/hub rather than a standalone app. Clever integration concept.
+
+**Features:**
+- Web MIDI input (Yamaha CVP-301 via USB)
+- On-screen keyboard with live MIDI lighting
+- Octave range selector (2–Full)
+- BPM + metronome
+- Loop points (A/B)
+- Recording with download
+- Live score (PERFECT/GOOD timing windows)
+- Practice plan generator
+- Fit Width / Expand Keyboard display options
+- Settings (hide keyboard)
+- Links to: Piano Marvel, Midiano, Synthesia, SeeMusic, MIDI Visualizer, MuseScore, Cakewalk, Waveform, FreePiano
+- Google Drive sheet music folder link
+
+**What holds it back:** The live MIDI features are genuinely impressive but require local USB connection. Most features are links to external tools rather than built functionality.
+
+---
+
+### 18. STARHAVEN / MAX
+**URL:** https://josh-hub-96no.vercel.app/games/max/index.html
+**Score: 5.5 / 10**
+
+Text mystery with command interface. Two games in one launcher.
+
+**Features:**
+- Starhaven: text mystery with commands (help, look, go n/e/s/w, take, talk, accuse, arrest, use console)
+- Guess the Number: secondary mini-game
+- Shared command input
+- Two-game launcher interface
+
+**What holds it back:** Content depth of Starhaven unclear — mystery games live or die on world/puzzle design. The interface is minimal.
+
+---
+
+### 19. SIMPLE RPG / LetsPlayDnd
+**URL:** https://joshuaparrisdadlan-stack.github.io/LetsPlayDnd/
+**Score: 5.2 / 10**
+
+Very minimal HTML returned — "Classic D&D 5e Text Adventure." Likely a full game engine underneath but surface presentation is bare. Content and features need in-session investigation.
+
+---
+
+### 20. WHIRRING WILDERNESS (Twine v1)
+**URL:** https://joshuaparris-max.github.io/WhirringWilderness/
+**Score: 5.0 / 10**
+
+The original Whispering Wilds in Twine format. "Whispering Wilds" title present, minimal HTML on fetch. Twine export — all content is JS-rendered. Functionally this is the prototype that became the much richer v2. Worth preserving for history but v2 supersedes it comprehensively.
+
+---
+
+### 21. MIDNIGHT LINE
+**URL:** https://josh-hub-96no.vercel.app/games/midnight-line/index.html
+**Score: 4.8 / 10**
+
+"The Midnight Line — Vertical Slice" — React/Vite build. "Vertical slice" in the title indicates an intentional prototype/demo slice rather than a complete game. Content not assessable from HTML alone.
+
+**Potential:** The noir train aesthetic implied by the name has strong AAA indie potential. Needs content investment.
+
+---
+
+## TIER C — Stub, Broken, or Launcher-Only
+
+---
+
+### 22. DCS COMPANION
+**URL:** https://joshuaparris-max.github.io/DCSCompanion
+**Score: 3.5 / 10**
+
+Title only returned ("DCS Companion"). Content not visible — likely a full app underneath but GitHub Pages may not be fully deployed or requires JS to render.
+
+---
+
+### 23. PARRIS DUBBO MOVER
+**URL:** https://parris-dubbo-mover-app-main-client.vercel.app/
+**Score: 2.0 / 10**
+
+"PDM App" — title only. API/backend confirmed broken (noted in JoshHub). Client renders but is non-functional without the server.
+
+---
+
+### 24. CLEARCORE
+**URL:** https://clearcore.vercel.app/
+**Score: 1.0 / 10**
+
+Blank page returned. No content visible. Not yet deployed or build broken.
+
+---
+
+### 25. FORBIDDEN QUESTS
+**URL:** https://josh-hub-96no.vercel.app/games/forbidden-quests/index.html
+**Score: 1.0 / 10**
+
+Blank page returned. Static client build with server-side features stripped — likely missing bundled assets in JoshHub's public folder.
+
+---
+
+## OVERALL PORTFOLIO RANKING
+
+| Rank | App/Game | Score | Tier |
+|------|----------|-------|------|
+| 1 | Whispering Wilds v2 (PyScript) | 9.2 | S |
+| 2 | Parris Tech Services App | 9.0 | S |
+| 3 | Parris Tech App (Mac) | 8.5 | S |
+| 4 | LifeHub Dashboard | 8.3 | S |
+| 5 | JoshHub (josh-hub-two) | 7.8 | A |
+| 6 | JoshHub Apps (josh-hub-96no) | 7.6 | A |
+| 7 | Null | 7.5 | A |
+| 8 | OrgScape / Infinite Office | 7.2 | A |
+| 9 | Mystery Depths | 7.0 | A |
+| 10 | DCS Prep App | 7.0 | A |
+| 11 | HugCoach | 6.8 | A |
+| 12 | Dark Realms (NewGame) | 6.5 | B |
+| 13 | Classic D&D Text Adventure | 6.3 | B |
+| 14 | D&D RPG Dungeon | 6.2 | B |
+| 15 | Campaign Copilot | 6.0 | B |
+| 16 | Parris Budget App | 5.8 | B |
+| 17 | Parris Piano App | 5.5 | B |
+| 18 | Starhaven / Max | 5.5 | B |
+| 19 | Simple RPG / LetsPlayDnd | 5.2 | B |
+| 20 | Whirring Wilderness (Twine v1) | 5.0 | B |
+| 21 | Midnight Line | 4.8 | B |
+| 22 | DCS Companion | 3.5 | C |
+| 23 | Parris Dubbo Mover | 2.0 | C |
+| 24 | ClearCore | 1.0 | C |
+| 25 | Forbidden Quests | 1.0 | C |
+
+---
+
+## Key Findings
+
+**Strongest games for AAA polish investment (ranked):**
+1. Whispering Wilds v2 — already near publishable, needs art + audio
+2. Null — most original concept, art game potential
+3. OrgScape — faction/floor systems need content but structure is right
+4. Mystery Depths — three themes + save system is a strong base
+5. Midnight Line — vertical slice framing suggests intentional future dev
+
+**Strongest apps overall:**
+1. Parris Tech Services App — legitimate business tool, could sell to other small IT operators
+2. LifeHub Dashboard — most ambitious, needs UX consolidation
+3. DCS Prep App — most professionally focused, needs more modules
+
+**Biggest gaps between potential and current state:**
+- Null (concept >> current content)
+- Midnight Line (aesthetic potential >> current vertical slice)
+- HugCoach (excellent structure, no content)
+- Campaign Copilot (full UI exists, not visible on surface)
+
+**Portfolio signature:** You build systems before content — the architecture and feature thinking is consistently strong, but many projects need content depth to match their structural ambition. The exception is Whispering Wilds v2, where both are present.
+ 
+________________
+
+
+# GitHub Massive Audit
+
+This audit is based on the three connected GitHub accounts and a repo-by-repo review of visible repository metadata, plus targeted inspection of representative files in the most important repos.
+
+## Executive summary
+- Total repos reviewed: **56**
+- `joshualparris`: **17** repos
+- `joshuaparris-max`: **18** repos
+- `joshuaparrisdadlan-stack`: **21** repos
+
+## What stands out most
+- You have real product families, not random repos. The strongest families are JoshHub, ParrisDubboMover, Whispering/Whirring/Wild2, HugCoach, DCS tools, and campaign-copilot.
+- Your biggest repo-level problem is duplication across accounts. Several projects exist in multiple places with slightly different names or maturity levels, which makes ownership and the 'current truth' hard to see.
+- The dadlan-stack account looks like your game lab / alt-stack / content-and-prototype workshop.
+- The max account looks like your polished-public creative/app account.
+- The joshualparris account looks like the closest thing to your main product/account-of-record.
+- A large chunk of the portfolio is promising-but-not-finished: strong names, real concepts, but many tiny or placeholder repos.
+- You already have enough substance to curate a clean public portfolio. The issue is not lack of output. It is fragmentation.
+
+## Strongest repos right now
+1. **JoshHub (joshualparris)** — Best overall platform spine
+2. **ParrisDubboMover (joshuaparrisdadlan-stack)** — Most substantial full-stack app family
+3. **HugCoach (joshualparris)** — Most production-shaped coaching app
+4. **DCSCompanion (joshuaparris-max)** — Strong focused school utility
+5. **DCSPrep (joshualparris)** — Lean but real Next app
+6. **ParrisBudgetApp (joshuaparris-max)** — Serious budget app foundation
+7. **campaign-copilot (joshuaparris-max)** — Real tool/app architecture
+8. **Midnight-Line (joshuaparris-max)** — Strongest game vertical slice
+9. **ParrisPiano (joshuaparris-max)** — Most practical utility bundle
+10. **BucklandBlocks (joshualparris)** — Most ambitious web sandbox concept
+
+## Full inventory by account
+
+### joshualparris
+
+- **JoshHub** — hub/app — **flagship** — public — size 49103 — Primary all-in-one hub; strongest product spine.
+- **HugCoach** — app — **flagship** — public — size 8299 — Modern coaching app with DB/test stack.
+- **DCSPrep** — app — **active prototype** — public — size 242 — DCS-focused prep app; lean but real stack.
+- **ParrisDubboMoverApp-Main** — app — **active prototype** — public — size 25656 — Earlier mover app branch/family; substantial code.
+- **ParrisTechServicesApp** — app — **active prototype** — public — size 7598 — Windows-side tech services app; meaningful codebase.
+- **BucklandBlocks** — game — **active prototype** — public — size 3602 — Ambitious browser voxel sandbox.
+- **energyquest** — game — **prototype** — public — size 198929 — Large Unity repo, but README frames it as an early prototype.
+- **ClearCore** — app — **prototype** — public — size 498 — Small but intentional app seed.
+- **ParrisTechApp** — app — **prototype** — public — size 43 — Very small Mac-side counterpart; likely early or mirrored.
+- **Whispering-Wilds** — game — **prototype** — public — size 65 — Whispering Wilds family repo on primary account; small.
+- **wastes-courier-roguelike** — game — **prototype** — public — size 56 — Playable concept, but repo footprint is tiny.
+- **JoshNFCAudio** — app — **prototype** — public — size 69 — NFC/audio concept seed.
+  
+
+- **SwordCoast** — game/tool — **prototype** — public — size 18 — Very small seed repo.
+- **LifeHub** — hub/app — **placeholder** — public — size 0 — Name suggests larger ambition; repo currently looks empty/minimal.
+- **JoshTapApp** — app — **placeholder** — public — size 0 — Likely superseded by the Android scaffold on dadlan-stack.
+- **newfileqqqwertuhvgjkk.py** — misc — **scratch** — public — size 11 — Throwaway/scratch repo.
+- **BucklandBlocks1** — game — **placeholder** — private — size 0 — Private placeholder or abandoned fork.
+
+### joshuaparris-max
+
+- **ParrisDubboMoverApp** — app — **flagship** — public — size 84070 — Large public mover app repo; likely main public presentation repo.
+- **Midnight-Line** — game — **flagship vertical slice** — public — size 166724 — Most substantial game-style repo by footprint; clearly more than a toy.
+- **ParrisPiano** — utility/app — **flagship utility** — public — size 39909 — Useful, documented piano/CVP toolkit with desktop utility angle.
+- **WhirringWilderness** — game — **active prototype** — public — size 25141 — Strong Whispering Wilds family variant with meaningful substance.
+- **pdm-parris-dubbo-mover** — app — **active prototype** — public — size 25613 — Another mover family repo; likely duplicate/transition lineage.
+- **campaign-copilot** — app/tool — **active prototype** — public — size 312 — Real app stack despite modest repo size metric.
+- **DCSCompanion** — app — **active prototype** — public — size 647 — Real deployed DCS helper app.
+- **ParrisBudgetApp** — app — **active prototype** — public — size 1972 — Budgeting app with auth/DB stack.
+- **lifehubdashboard** — hub/app — **prototype** — public — size 275 — LifeHub dashboard concept; lighter than JoshHub.
+- **JoshCoach** — app — **prototype** — public — size 232 — Coach app seed / companion project.
+- **JoshFireAwareness** — app — **prototype** — public — size 86 — Small targeted concept.
+- **GoldFinder** — app/game — **prototype** — public — size 93 — Tiny concept repo.
+- **Max** — game/misc — **prototype** — public — size 9 — Very small wrapper/experiment repo.
+- **Wild2** — game — **placeholder** — public — size 0 — Name implies sequel path, but this account's repo currently looks empty.
+- **random-play** — game/misc — **placeholder** — public — size 1 — Near-empty experiment.
+- **exitbackup** — infra/misc — **placeholder** — public — size 0 — Backup/holding repo with no visible substance.
+- **ForbiddenQuests** — game — **placeholder** — public — size 0 — Good title, but repo currently empty/minimal.
+- **StarHaven** — game — **placeholder** — public — size 0 — Promising title, currently empty/minimal.
+
+### joshuaparrisdadlan-stack
+
+- **ParrisDubboMover** — app — **flagship** — public — size 101869 — Strongest mover-family repo; real client/server app.
+- **JoshHub** — hub/app — **flagship** — public — size 48750 — Mirror/parallel JoshHub line with substantial code.
+- **JoshTapApp** — app/mobile — **active scaffold** — public — size 54406 — Substantial Android scaffold with a clear next-step roadmap.
+- **Docs** — docs/content — **active content repo** — public — size 185858 — One of the largest repos; likely writing/prompt/content heavy.
+- **WhirringWilderness** — game — **active prototype** — public — size 24951 — Another strong Wilds-family branch.
+- **whispering-wilds** — game — **active prototype** — public — size 2326 — Published Wilds branch.
+- **Wild2** — game — **active prototype** — public — size 2583 — Sequel/variant line with more substance than the max account version.
+- **campaign-copilot** — app/tool — **active prototype** — public — size 1165 — Earlier/smaller line of the same family.
+- **Assets** — assets — **support repo** — public — size 8204 — Asset storage/support role.
+- **Misc** — misc — **support repo** — public — size 16932 — General holding repo for assorted material.
+- **HugCoach** — app — **duplicate/parallel line** — public — size 8300 — Near-duplicate family of the main-account version.
+- **MysteriousDepths** — game — **prototype** — public — size 18 — Playable/static game family repo, but tiny footprint.
+- **Null** — game — **prototype** — public — size 32 — Small but coherent static text-adventure repo.
+- **OrgScape** — game — **prototype** — public — size 20 — Static browser roguelike repo; conceptually strong.
+- **LetsPlayDnd** — game — **prototype** — public — size 11 — Simple RPG / text-adventure branch.
+- **SimpleRPG** — game — **prototype** — public — size 14 — Small sibling repo to the D&D/text-RPG line.
+- **BucklandGame** — game — **prototype** — public — size 14 — Small experiment.
+- **whispering-wilds-test** — game — **test repo** — public — size 297 — Test harness/experimental branch.
+- **Games** — misc — **placeholder** — public — size 0 — Umbrella name, currently empty/minimal.
+- **DCSCompanion** — app — **placeholder** — public — size 0 — Probably a mirror placeholder rather than the live main repo.
+- **WhisperingWildsReloaded** — game — **placeholder** — public — size 0 — Strong concept title, currently empty/minimal.
+## Cleanup priorities
+1. Pick one canonical home for each major product family.
+2. Mark mirrors / experiments clearly (`-archive`, `-prototype`, `-spike`, `-legacy`).
+3. Create one public portfolio README that links only the best current repo in each family.
+4. Archive or hide empty placeholder repos that are not helping your story.
+5. For the top 6 projects, add clean READMEs, screenshots, and live links.
+6. Standardise branch naming (`main` vs `master`) and deployment ownership.
+## Best next move
+If you want the highest return, the next pass should not be 'more repos'. It should be a **portfolio consolidation pass** where we crown a single source-of-truth repo for each major project family and sort the rest into active, archived, or experimental.
+ 
+________________
+See google keep doc here - https://keep.google.com/#NOTE/1JodjgHlXIETW07Z8ULkZk6t5u7bimZZRGmdPiE4J6RaxALULw27QeuKaPaGj6w 
+
+
+7 Games by Claude
+Game
+	URL
+	Status
+	StarHaven (Star Wars)
+	https://joshuaparris-max.github.io/StarHaven/
+	✅ Working
+	ForbiddenQuests (D&D)
+	https://joshuaparris-max.github.io/ForbiddenQuests/
+	✅ Fixed
+	LifeHub (LotR)
+	https://joshualparris.github.io/LifeHub/
+	✅ Rebuilt
+	Wild2 (Skyrim)
+	https://joshuaparris-max.github.io/Wild2/
+	✅ Working
+	WhisperingWildsReloaded (Witcher)
+	https://joshuaparrisdadlan-stack.github.io/WhisperingWildsReloaded/
+	✅ Working
+	exitbackup (Hitchhiker's)
+	https://joshuaparris-max.github.io/exitbackup/
+	✅ Working
+	Games (GoT)
+	https://joshuaparrisdadlan-stack.github.io/Games/
+	✅ Working
+	
+
+________________
+
+
+Ashes of the Hollow Crown
+http://127.0.0.1:5500/epic-rpg/index.html 
+http://localhost:8080/ 
+  
+________________
+
+Games in the Parris-Life-Dashboard Repository
+Your cloned repo at Parris-Life-Dashboard contains a public/games/ folder with numerous local game builds. These appear to be mostly complete (with index.html files), but some may be prototypes or works-in-progress. The games include:
+* aa-game-adventure
+* amodule-dnd
+* boundary-road
+* buckland-blocks
+* buckland-v1
+* buckland-v2
+* classic-dnd-text
+* dinner-decider
+* dnd-rpg-dungeon
+* forbidden-quests
+* infinite-office
+* josh-nfc-audio
+* max
+* midnight-line
+* mysterious-depths
+* neon-dash
+* neverwinter-tales
+* newfileqqqwertuhvgjkk (seems like a test/placeholder)
+* newgame
+* nexus-descent
+* orgscape
+* random-play
+* simple-rpg-gh
+* starhaven
+* tile-game
+* wilds-2
+* wilds-main
+* wilds-sail-west
+Many of these are listed in your gamesShowcase.ts data, but some (like newfileqqqwertuhvgjkk or dinner-decider) might be unfinished or experimental.
+Other Projects in Documents
+* Project-Hub (Project-Hub): Contains an index.html, scripts, and a RothfussGame/ subfolder. This looks like a project hub/dashboard with an embedded unfinished game.
+* RothfussGame (inside Project-Hub): Appears to be a King Killer Chronicle-inspired game project, with files suggesting it's in development.
+Zipped Projects in Downloads
+Your Downloads folder has several archived projects that may be unfinished:
+* RothfussGame.zip and RothfussGame-20260413T030826Z-3-001.zip: Likely backups or exports of the Rothfuss-inspired game.
+* Prompt-Linker.zip: Seems related to prompt management or AI tools.
+* Game-Fixer.zip: Possibly a utility or game-related tool.
+* Prompts1to180-20260413T054759Z-3-001.zip: A collection of prompts, potentially for AI or game development.
+* Aetheria-Lore-Deep/: An extracted folder for what appears to be a fantasy RPG lore project.
+Additional Notes
+* The repo's scripts/ folder might contain build or utility scripts for unfinished features.
+* Some folders (like experimental/, Game-Fixer/, Serenity-Keep-Flying/) are mentioned in your next.config.ts as ignored, suggesting they exist but are excluded from builds—possibly unfinished side projects.
+* If you have specific criteria for "unfinished" (e.g., no index.html, missing features, or not deployed), I can dive deeper into any of these folders or search for patterns like incomplete code or TODOs.
+Yes — there are other likely unfinished projects/games
+From your current filesystem, these stand out as active/unfinished development folders:
+epic-rpg
+Contains src/, assets/, docs/, tests/, and progress.md
+Looks like a game project in active development
+JoshHub
+A larger code repo with:
+Game-Fixer/
+Wilds - Sail West/
+projects/, src/, package.json, tasks.md
+Definitely another active software/game workspace
+NebulaDice
+Your current game project
+dnd-file-explorer
+Contains a JoshHub subfolder, so likely another project/repo
+Also present are related Nebula Dice package/output folders like:
+NebulaDice-Browser-publish - c:\Users\joshua.parris\NebulaDice.zip
+________________
+Confirmed active source projects
+* NebulaDice
+* corporate-game
+* Prompt-Linker
+* JoshHub
+* Parris-Life-Dashboard-clean-publish
+* Parris-Life-Dashboard-publish
+* Parris-Life-Dashboard-web-deploy
+* NebulaDice-Browser-publish
+Additional projects found under OneDrive
+Under C:\Users\joshua.parris\OneDrive - Dubbo Christian School\Documents\03_Projects I found more active project folders:
+* Dinner-Decider
+* dnd-file-explorer
+* ForbiddenQuests
+* Game-Booster
+* Game-Fixer
+* Health-Data-Manager
+* Hub-Improvement
+* Josh-Guardian
+* Josh-Platform
+* Whispering\WhirringWilderness
+* StarhavenMystery\StarhavenMystery
+Other notable roots
+* JoshHub
+* Serenity-Keep-Flying
+* Serenity-Keep-Flying
+Notes
+* dnd-file-explorer itself is not a standalone project root; it just contains a JoshHub folder.
+* The OneDrive folder contains many more nested project copies and archives, including several Prompt-Linker and JoshSim related paths.
+________________
+
+
+3 Layers Alfie DND
+https://3layers-puce.vercel.app/
+  
+
+
+
+
+
+
+
+Josh Hub - https://josh-hub-two.vercel.app/dashboard 
+(All in One - Josh App)
+
+
+Realms Atlas - 
+v1 
+https://realms-atlas-readable-map-patch.vercel.app/
+https://joshuaparris-max.github.io/realms-atlas/
+
+
+Game that has all my links and apps in it
+v2
+https://joshualparris.github.io/realms-atlas/
+
+
+See App Links Doc here - https://docs.google.com/document/d/1rYeeXqK6QBZx1upwHdtzzoXSwxNLHz7_omcooqhUKIM/edit?tab=t.0
+
+
+JoshDashboard
+v1 https://joshdashboard2-3d63fzekflg2wlakjmrakz.streamlit.app/
+v2 josh-dashboard-black.vercel.app/app/dashboard.html
+
+
+Research Atlas
+https://research-atlas-phi.vercel.app/ 
+
+
+Research Gems
+https://joshualparris.github.io/ResearchGems/ 
+
+
+Waypoint - https://waypoint-azure.vercel.app/
+
+
+Upskill App - https://upskillapp.vercel.app/
+
+
+
+
+WorkApp - https://work-app-pearl.vercel.app/ 
+
+
+Dubbo / DCS Apps / Games 
+
+
+DCSPD App - https://dcspd.vercel.app/
+
+
+DCSProfessionalDevelopment - https://dcs-professional-development.vercel.app/
+
+
+DCS Companion - https://joshuaparris-max.github.io/DCSCompanion
+
+
+DCS Prep App -  https://dcs-prep.vercel.app/
+
+
+Avance PD - https://avance-professional-development.vercel.app/ 
+And https://avance-pd.vercel.app/  
+
+
+ParrisDubboMover - https://parris-dubbo-mover-app-main-client.vercel.app/
+(Note API / Backend Server is not working for this one)
+
+
+AI Dungeon Master - https://ai-dungeon-master-azure.vercel.app/
+
+
+Campaign Copilot - https://joshuaparrisdadlan-stack.github.io/campaign-copilot/
+
+
+Field Notes
+https://field-notes-two.vercel.app/
+
+
+Sylvie Sleepytime
+https://joshualparris.github.io/Sleepy/
+
+
+
+
+Sylvie phonics app
+https://joshualparris.github.io/SylviePhonetics/
+
+
+
+
+App Factory
+https://appfactory-inky.vercel.app/ 
+https://app-factory-gamma.vercel.app/ 
+https://app-factory-77522izch-joshualparris-projects.vercel.app 
+https://joshuaparris-max.github.io/AppFactory/ 
+
+
+
+
+3 Layers DND - Alfie
+https://3layers-puce.vercel.app/
+
+
+Games
+
+
+Whispering Wilds - 3 Versions
+https://joshuaparris-max.github.io/WhirringWilderness/
+https://joshuaparrisdadlan-stack.github.io/whispering-wilds/
+https://joshualparris.itch.io/whisperingwilds
+
+
+King Killer Chronicle Adventure
+https://joshualparris.github.io/kkc-adventure/
+https://rothfuss-kkc-adventure-production.up.railway.app/
+
+
+PowerApp
+https://github.com/joshuaparris-max/PowerApp
+https://power-app-delta.vercel.app/
+https://joshuaparris-max.github.io/PowerApp/
+
+
+
+
+PartyAI Dungeon Master
+https://party-ai-mu.vercel.app/play 
+
+
+Rothfuss - University Maps
+https://joshualparris.github.io/RothfussMaps/university-atlas/
+
+
+Aetheria
+https://skill-deploy-fs1ircxjkn.vercel.app/
+
+
+Neverwinter RPG
+https://skill-deploy-dwxq7kw5pa.vercel.app/
+https://skill-deploy-wbzruert4j-codex-agent-deploys.vercel.app
+
+
+Forbidden Lands Lite
+https://skill-deploy-7tfaq44eli-codex-agent-deploys.vercel.app
+
+
+Serenity - Firefly RPG
+http://skill-deploy-ubokv1ax71.vercel.app/
+
+
+Mystery Depths
+https://joshualparris.itch.io/mysterydepths
+https://joshuaparrisdadlan-stack.github.io/MysteriousDepths/
+
+
+Grey Realms
+https://a7d7c8d4-f588-4e1a-a1eb-23f46fa50d0b-00-2qe90krr96xo5.janeway.replit.dev/ - need to push to GitHub from download of Dnd-Path-Creator
+
+
+Grey March
+https://joshualparris.github.io/Marsh/
+
+
+Ashfaller
+https://joshualparris.github.io/ashfaller/
+https://joshualparris.github.io/AshFallen/ 
+
+
+44. joshuaparris-max/StarHaven
+https://skill-deploy-kkckqq5c2j.vercel.app/ 
+
+
+Simple RPG
+https://joshualparris.itch.io/simplerpg
+https://joshuaparrisdadlan-stack.github.io/LetsPlayDnd/
+
+
+Infinite Office
+https://joshualparris.itch.io/infiniteoffice
+https://joshuaparrisdadlan-stack.github.io/OrgScape/
+
+
+Null
+https://joshualparris.itch.io/null-html-game
+https://joshuaparrisdadlan-stack.github.io/Null/
+
+
+Chronicles of Sword Coast
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/joshualparris/JoshHub/3de1a67/public/games/dndgame/index.html
+
+
+Wilds - Sail West
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/joshualparris/JoshHub/41dfcef/public/games/wilds-sail-west/index.html 
+
+
+Wilds Main
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/joshualparris/JoshHub/d7521ab/public/games/wilds-main/index.html 
+
+
+Delve
+https://joshualparris.github.io/delve/
+
+
+Breach Command
+https://joshualparris.github.io/breach-command/
+
+
+Echo Vault
+https://joshualparris.github.io/Echo/
+
+
+
+
+Vercel apps
+Takeaway tonight
+https://skill-deploy-gzaqtty7hb-codex-agent-deploys.vercel.app
+
+
+JoshSim - Life Simulator
+https://skill-deploy-wn74y0trpc-codex-agent-deploys.vercel.app
+
+
+https://parris-budget-app.vercel.app/
+
+
+JoshHealthHub
+https://skill-deploy-ibq7zs9hn6-codex-agent-deploys.vercel.app
+
+
+DrunkJoshGuardian
+https://skill-deploy-oww33mfjrh-codex-agent-deploys.vercel.app
+
+
+https://josh-hub-96no.vercel.app/apps
+
+
+https://hug-coach.vercel.app/
+
+
+https://clearcore.vercel.app/
+
+
+https://lifehubdashboard.vercel.app/
+
+
+https://parris-piano.vercel.app/
+
+
+https://parris-tech-app.vercel.app/ (mac one)
+
+
+https://parris-tech-services-app.vercel.app/ (windows one)
+
+
+
+
+Boundary Road Panos
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/joshualparris/JoshHub/3de1a67/public/games/boundary-road/index.html 
+
+
+Neverwinter tales
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/joshualparris/JoshHub/8d02ac4/public/games/neverwinter-tales/index.html 
+
+
+
+
+54 - Elodin Lore - https://joshualparris.github.io/ElodinDeepLore/
+55 - Elodin Dossier
+https://joshualparris.github.io/ElodinDeepLore/ElodinDeepLore.html
+56 - Elodin Lore - https://joshualparris.github.io/elodin-deep-lore/
+57 - Elodin Atlas - https://joshualparris.github.io/elodin-deep-lore/atlas.html
+58 - Elodin Compendium - https://joshualparris.github.io/elodin-deep-lore/ElodinDeepLore.html 
+
+
+
+
+Find a repository…
+newfileqqqwertuhvgjkk.py
+joshualparris/newfileqqqwertuhvgjkk.py
+BucklandBlocks
+joshualparris/BucklandBlocks
+JoshHub
+joshualparris/JoshHub
+Whispering-Wilds
+joshualparris/Whispering-Wilds
+HugCoach
+joshualparris/HugCoach
+energyquest
+joshualparris/energyquest
+DCSPrep
+joshualparris/DCSPrep
+BucklandBlocks1
+joshualparris/BucklandBlocks1
+ParrisTechApp
+joshualparris/ParrisTechApp
+ParrisTechServicesApp
+joshualparris/ParrisTechServicesApp
+LifeHub
+joshualparris/LifeHub
+ClearCore
+joshualparris/ClearCore
+JoshCoach
+joshuaparris-max/JoshCoach
+wastes-courier-roguelike
+joshualparris/wastes-courier-roguelike
+JoshTapApp
+joshuaparrisdadlan-stack/JoshTapApp
+JoshTapApp
+joshualparris/JoshTapApp
+JoshNFCAudio
+joshualparris/JoshNFCAudio
+ParrisDubboMoverApp-Main
+joshualparris/ParrisDubboMoverApp-Main
+Dashboard
+Home
+
+
+
+
+Top repositories
+Find a repository…
+JoshHub
+joshualparris/JoshHub
+WhirringWilderness
+joshuaparris-max/WhirringWilderness
+campaign-copilot
+joshuaparris-max/campaign-copilot
+ClearCore
+joshualparris/ClearCore
+ParrisDubboMoverApp
+joshuaparris-max/ParrisDubboMoverApp
+Max
+joshuaparris-max/Max
+lifehubdashboard
+joshuaparris-max/lifehubdashboard
+JoshCoach
+joshuaparris-max/JoshCoach
+random-play
+joshuaparris-max/random-play
+ParrisTechApp
+joshualparris/ParrisTechApp
+ParrisPiano
+joshuaparris-max/ParrisPiano
+Wild2
+joshuaparris-max/Wild2
+exitbackup
+joshuaparris-max/exitbackup
+Midnight-Line
+joshuaparris-max/Midnight-Line
+StarHaven
+joshuaparris-max/StarHaven
+ParrisBudgetApp
+joshuaparris-max/ParrisBudgetApp
+ForbiddenQuests
+joshuaparris-max/ForbiddenQuests
+pdm-parris-dubbo-mover
+joshuaparris-max/pdm-parris-dubbo-mover
+DCSCompanion
+joshuaparris-max/DCSCompanion
+Dashboard
+Home
+
+
+
+
+
+
+
+
+https://joshuaparrisdadlan-stack.github.io/whispering-wilds/
+
+
+https://josh-hub-96no.vercel.app/games/classic-dnd-text/index.html
+
+
+https://josh-hub-96no.vercel.app/games/dnd-rpg-dungeon/index.html
+
+
+https://josh-hub-96no.vercel.app/games/forbidden-quests/index.html
+
+
+https://josh-hub-96no.vercel.app/games/infinite-office/index.html
+
+
+https://josh-hub-96no.vercel.app/games/max/index.html
+
+
+https://josh-hub-96no.vercel.app/games/midnight-line/index.html
+
+
+https://joshuaparrisdadlan-stack.github.io/MysteriousDepths/
+
+
+https://josh-hub-96no.vercel.app/games/newgame/index.html
+
+
+https://joshuaparrisdadlan-stack.github.io/Null/
+
+
+https://josh-hub-96no.vercel.app/games/orgscape/index.html
+
+
+https://joshuaparrisdadlan-stack.github.io/OrgScape/
+
+
+https://joshuaparrisdadlan-stack.github.io/LetsPlayDnd/
+
+
+https://josh-hub-96no.vercel.app/
+
+
+https://josh-hub-96no.vercel.app/games/max/index.html
+
+
+https://joshualparris.github.io/wastes-courier-roguelike/
+
+
+https://joshuaparris-max.github.io/WhirringWilderness/
+
+
+https://joshuaparrisdadlan-stack.github.io/whispering-wilds/
+
+
+
+
+
+
+https://health-lens-rust.vercel.app/  - joshualparris
+
+
+https://github.com/joshualparris/HealthLens  - joshualparris
+
+
+https://josh-health-cyan.vercel.app/  - joshuaparris-max
+
+
+https://github.com/joshuaparris-max/JoshHealth  - joshuaparris-max
+
+
+
+
+
+
+1 https://parris-tech-app.vercel.app/ 
+
+
+2 https://avance-professional-development.vercel.app/ 
+
+
+3 https://avance-pd.vercel.app/ 
+
+
+4 https://waypoint-azure.vercel.app/ 
+
+
+5 https://josh-hub-two.vercel.app/dashboard 
+
+
+6 https://field-notes-two.vercel.app/ 
+
+
+7 https://parris-tech-services-app.vercel.app/ 
+
+
+8 DCSPD App - https://dcspd.vercel.app/ 
+
+
+9 DCSProfessionalDevelopment - https://dcs-professional-development.vercel.app/ 
+
+
+10 DCS Companion - https://joshuaparris-max.github.io/DCSCompanion 
+
+
+11 DCS Prep App -  https://dcs-prep.vercel.app/
