@@ -46,3 +46,8 @@ next-env.d.ts
 *.apk
 *.tar.gz
 
+
+# accidental scratch / generated dumps
+git-status-porcelain.txt
+untracked-list.txt
+Josh Hub - *.txt
