@@ -93,3 +93,10 @@ There are other JoshHub lines across Josh's accounts (e.g. the deployed `josh-hu
 source-of-truth JoshHub repo, with this local copy either becoming that canonical repo or
 being clearly marked as the local/offline variant. This cleanup pass does **not** merge them —
 it only documents the relationship and tidies hygiene.
+
+## ⚡ QuickHub — offline companion (new)
+
+A self-contained, fully-offline companion page lives at [`quickhub.html`](quickhub.html):
+quick links, today's tasks, and an autosaving scratchpad, all local-first with JSON
+export/import. Open it directly in any browser — no build required. Handy when you just want
+the essentials without running the full Next.js app.
