@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QuickHub — offline companion</title>
+<style>
+  :root { --bg:#0e1116; --card:#171c25; --line:#28303d; --text:#e8edf5; --muted:#8a96a8; --accent:#5ec2a8; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif; background:var(--bg); color:var(--text); line-height:1.55; padding:0 16px 40px; }
+  .wrap { max-width:860px; margin:0 auto; }
+  header { text-align:center; padding:26px 0 8px; }
+  header h1 { font-size:1.8rem; }
+  header p { color:var(--muted); font-size:.92rem; }
+  .greeting { text-align:center; color:var(--accent); margin-bottom:16px; font-size:1.05rem; }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+  @media(max-width:640px){ .grid{grid-template-columns:1fr} }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px 18px; }
+  .card h2 { font-size:1.05rem; margin-bottom:10px; display:flex; align-items:center; gap:8px; }
+  .row { display:flex; gap:8px; margin-bottom:8px; }
+  input,textarea { width:100%; background:#10141b; border:1px solid var(--line); color:var(--text); border-radius:8px; padding:9px; font-family:inherit; font-size:.92rem; }
+  textarea { min-height:120px; resize:vertical; }
+  .btn { background:var(--accent); border:none; color:#04201a; font-weight:700; border-radius:8px; padding:9px 14px; cursor:pointer; white-space:nowrap; }
+  .btn.ghost { background:transparent; border:1px solid var(--line); color:var(--text); font-weight:500; }
+  .item { display:flex; gap:8px; align-items:center; padding:7px 0; border-bottom:1px solid var(--line); font-size:.9rem; }
+  .item:last-child { border:none; }
+  .item a { color:var(--text); text-decoration:none; flex:1; }
+  .item a:hover { color:var(--accent); }
+  .item .x { color:var(--muted); cursor:pointer; }
+  .task .t { flex:1; cursor:pointer; }
+  .task.done .t { color:var(--muted); text-decoration:line-through; }
+  .empty { color:var(--muted); font-size:.86rem; padding:6px 0; }
+  .toolbar { display:flex; justify-content:space-between; align-items:center; margin:18px 0 8px; }
+  .toolbar small { color:var(--muted); }
+  footer { text-align:center; color:var(--muted); font-size:.78rem; margin-top:20px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>⚡ QuickHub</h1>
+    <p>A local-first, offline companion to JoshHub — quick links, tasks, and a scratchpad. Saves to this browser only.</p>
+  </header>
+  <div class="greeting" id="greeting"></div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>🔗 Quick links</h2>
+      <div class="row"><input id="linkName" placeholder="Name"><input id="linkUrl" placeholder="https://…"><button class="btn" id="addLink">Add</button></div>
+      <div id="links"></div>
+    </div>
+    <div class="card">
+      <h2>✅ Today's tasks</h2>
+      <div class="row"><input id="taskIn" placeholder="What needs doing?"><button class="btn" id="addTask">Add</button></div>
+      <div id="tasks"></div>
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:14px">
+    <h2>📝 Scratchpad <span style="font-size:.7rem;color:var(--muted);font-weight:400" id="saved"></span></h2>
+    <textarea id="pad" placeholder="Think out loud… autosaves as you type."></textarea>
+  </div>
+
+  <div class="toolbar">
+    <small>Everything stays on this device.</small>
+    <div><button class="btn ghost" id="export">Export JSON</button> <button class="btn ghost" id="import">Import</button> <input type="file" id="file" accept="application/json" style="display:none"></div>
+  </div>
+
+  <footer>Part of <strong>JoshHub-Local</strong> — a private, local-first life dashboard. This page works fully offline.</footer>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+const K={links:'quickhub_links',tasks:'quickhub_tasks',pad:'quickhub_pad'};
+const load=(k,d)=>{ try{ return JSON.parse(localStorage.getItem(k))??d; }catch(e){ return d; } };
+const save=(k,v)=>localStorage.setItem(k,JSON.stringify(v));
+const esc=s=>(s||'').replace(/[<>&]/g,c=>({'<':'&lt;','>':'&gt;','&':'&amp;'}[c]));
+
+// greeting
+const h=new Date().getHours();
+$('greeting').textContent = (h<12?'Good morning':h<18?'Good afternoon':'Good evening')+' — here\'s your hub.';
+
+// links
+function renderLinks(){
+  const l=load(K.links,[]); const el=$('links');
+  el.innerHTML = l.length ? l.map((x,i)=>`<div class="item"><a href="${x.url}" target="_blank" rel="noopener">↗ ${esc(x.name)}</a><span class="x" data-d="${i}">✕</span></div>`).join('') : '<div class="empty">Add your most-used links.</div>';
+  el.querySelectorAll('[data-d]').forEach(b=>b.onclick=()=>{ const a=load(K.links,[]); a.splice(+b.dataset.d,1); save(K.links,a); renderLinks(); });
+}
+$('addLink').onclick=()=>{ let url=$('linkUrl').value.trim(), name=$('linkName').value.trim()||url; if(!url)return; if(!/^https?:/.test(url)) url='https://'+url; const a=load(K.links,[]); a.push({name,url}); save(K.links,a); $('linkName').value=$('linkUrl').value=''; renderLinks(); };
+
+// tasks
+function renderTasks(){
+  const l=load(K.tasks,[]); const el=$('tasks');
+  el.innerHTML = l.length ? l.map((t,i)=>`<div class="item task ${t.done?'done':''}"><span class="t" data-t="${i}">${t.done?'☑':'☐'} ${esc(t.text)}</span><span class="x" data-d="${i}">✕</span></div>`).join('') : '<div class="empty">A short list of what matters today.</div>';
+  el.querySelectorAll('[data-t]').forEach(b=>b.onclick=()=>{ const a=load(K.tasks,[]); a[+b.dataset.t].done=!a[+b.dataset.t].done; save(K.tasks,a); renderTasks(); });
+  el.querySelectorAll('[data-d]').forEach(b=>b.onclick=()=>{ const a=load(K.tasks,[]); a.splice(+b.dataset.d,1); save(K.tasks,a); renderTasks(); });
+}
+$('addTask').onclick=()=>{ const v=$('taskIn').value.trim(); if(!v)return; const a=load(K.tasks,[]); a.push({text:v,done:false}); save(K.tasks,a); $('taskIn').value=''; renderTasks(); };
+$('taskIn').addEventListener('keydown',e=>{ if(e.key==='Enter') $('addTask').click(); });
+$('linkUrl').addEventListener('keydown',e=>{ if(e.key==='Enter') $('addLink').click(); });
+
+// scratchpad (autosave)
+$('pad').value=load(K.pad,'');
+let t=null;
+$('pad').addEventListener('input',()=>{ clearTimeout(t); $('saved').textContent='saving…'; t=setTimeout(()=>{ save(K.pad,$('pad').value); $('saved').textContent='saved ✓'; setTimeout(()=>$('saved').textContent='',1200); },400); });
+
+// export / import everything
+$('export').onclick=()=>{ const data={links:load(K.links,[]),tasks:load(K.tasks,[]),pad:load(K.pad,''),exportedAt:new Date().toISOString()}; const b=new Blob([JSON.stringify(data,null,2)],{type:'application/json'}); const a=document.createElement('a'); a.href=URL.createObjectURL(b); a.download='quickhub-backup.json'; a.click(); };
+$('import').onclick=()=>$('file').click();
+$('file').onchange=e=>{ const f=e.target.files[0]; if(!f)return; const r=new FileReader(); r.onload=()=>{ try{ const d=JSON.parse(r.result); if(d.links)save(K.links,d.links); if(d.tasks)save(K.tasks,d.tasks); if(typeof d.pad==='string')save(K.pad,d.pad); $('pad').value=load(K.pad,''); renderLinks(); renderTasks(); alert('Imported.'); }catch(err){ alert('Could not read that file.'); } }; r.readAsText(f); };
+
+renderLinks(); renderTasks();
+</script>
+</body>
+</html>
