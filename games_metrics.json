@@ -1,0 +1,768 @@
+[
+  {
+    "id": "orgscape",
+    "name": "OrgScape",
+    "tags": [
+      "game",
+      "orgscape",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/orgscape/index.html",
+    "metrics": {
+      "totalLines": 1603,
+      "totalFiles": 6,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/orgscape"
+    },
+    "score": 2403
+  },
+  {
+    "id": "wilds-sail-west",
+    "name": "Wilds - Sail West",
+    "tags": [
+      "game",
+      "wilds",
+      "browser",
+      "pyscript",
+      "playable"
+    ],
+    "url": "/games/wilds-sail-west/index.html",
+    "metrics": {
+      "totalLines": 775,
+      "totalFiles": 1,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/wilds-sail-west"
+    },
+    "score": 1325
+  },
+  {
+    "id": "wilds-2",
+    "name": "Wilds 2",
+    "tags": [
+      "game",
+      "wilds2",
+      "twine",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/wilds-2/index.html",
+    "metrics": {
+      "totalLines": 647,
+      "totalFiles": 1,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/wilds-2"
+    },
+    "score": 1197
+  },
+  {
+    "id": "amodule-dnd",
+    "name": "A Module DnD",
+    "tags": [
+      "game",
+      "dnd",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/amodule-dnd/index.html",
+    "metrics": {
+      "totalLines": 542,
+      "totalFiles": 2,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/amodule-dnd"
+    },
+    "score": 1142
+  },
+  {
+    "id": "classic-dnd-text",
+    "name": "Classic D&D Text Adventure",
+    "tags": [
+      "game",
+      "dnd",
+      "text-adventure",
+      "javascript",
+      "playable"
+    ],
+    "url": "/games/classic-dnd-text/index.html",
+    "metrics": {
+      "totalLines": 481,
+      "totalFiles": 3,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/classic-dnd-text"
+    },
+    "score": 1131
+  },
+  {
+    "id": "wilds-main",
+    "name": "Whirring Wilds (main)",
+    "tags": [
+      "game",
+      "wilds",
+      "twine",
+      "playable"
+    ],
+    "url": "/games/wilds-main/index.html",
+    "metrics": {
+      "totalLines": 361,
+      "totalFiles": 1,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/wilds-main"
+    },
+    "score": 911
+  },
+  {
+    "id": "tile-game",
+    "name": "Tile Game",
+    "tags": [
+      "game",
+      "tile",
+      "vite",
+      "playable"
+    ],
+    "url": "/games/tile-game/index.html",
+    "metrics": {
+      "totalLines": 57,
+      "totalFiles": 1,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/tile-game"
+    },
+    "score": 607
+  },
+  {
+    "id": "simple-rpg-gh",
+    "name": "Simple RPG (GH)",
+    "tags": [
+      "game",
+      "rpg",
+      "github-pages",
+      "playable"
+    ],
+    "url": "https://joshuaparrisdadlan-stack.github.io/LetsPlayDnd/",
+    "metrics": {
+      "totalLines": 30,
+      "totalFiles": 1,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/simple-rpg-gh"
+    },
+    "score": 580
+  },
+  {
+    "id": "neon-dash",
+    "name": "Neon Dash",
+    "tags": [
+      "game",
+      "neon",
+      "browser",
+      "threejs",
+      "playable"
+    ],
+    "url": "/games/neon-dash/index.html",
+    "metrics": {
+      "totalLines": 26,
+      "totalFiles": 1,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/neon-dash"
+    },
+    "score": 576
+  },
+  {
+    "id": "random-play",
+    "name": "Random Play",
+    "tags": [
+      "game",
+      "random",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/random-play/index.html",
+    "metrics": {
+      "totalLines": 22,
+      "totalFiles": 1,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/random-play"
+    },
+    "score": 572
+  },
+  {
+    "id": "midnight-line",
+    "name": "Midnight Line",
+    "tags": [
+      "game",
+      "midnight-line",
+      "react",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/midnight-line/index.html",
+    "metrics": {
+      "totalLines": 20,
+      "totalFiles": 1,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/midnight-line"
+    },
+    "score": 570
+  },
+  {
+    "id": "forbidden-quests",
+    "name": "Forbidden Quests",
+    "tags": [
+      "game",
+      "forbidden-quests",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/forbidden-quests/index.html",
+    "metrics": {
+      "totalLines": 17,
+      "totalFiles": 1,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/forbidden-quests"
+    },
+    "score": 567
+  },
+  {
+    "id": "serenity-keep-flying",
+    "name": "Serenity: Keep Flying",
+    "tags": [
+      "game",
+      "serenity",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/serenity-keep-flying/index.html",
+    "metrics": {
+      "totalLines": 16,
+      "totalFiles": 1,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/serenity-keep-flying"
+    },
+    "score": 566
+  },
+  {
+    "id": "buckland-blocks",
+    "name": "Buckland Blocks",
+    "tags": [
+      "game",
+      "buckland",
+      "blocks",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/buckland-blocks/index.html",
+    "metrics": {
+      "totalLines": 14,
+      "totalFiles": 1,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/buckland-blocks"
+    },
+    "score": 564
+  },
+  {
+    "id": "signal-garden",
+    "name": "Signal Garden (3D prototype)",
+    "tags": [
+      "game",
+      "3d",
+      "prototype",
+      "playable"
+    ],
+    "url": "/games/simple-rpg-gh/index.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "infinite-office-itch",
+    "name": "Infinite Office (itch)",
+    "tags": [
+      "game",
+      "office",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/infinite-office/index.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "null-v2",
+    "name": "Null v2",
+    "tags": [
+      "game",
+      "null",
+      "v2",
+      "browser",
+      "playable"
+    ],
+    "url": "https://joshuaparrisdadlan-stack.github.io/Null/",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "buckland-game",
+    "name": "Buckland Game",
+    "tags": [
+      "game",
+      "buckland",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/buckland-v2/index.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "lexicon",
+    "name": "Lexicon",
+    "tags": [
+      "game",
+      "lexicon",
+      "download",
+      "playable"
+    ],
+    "url": "/docs/lexicon.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": true,
+      "location": "C:/dev/JoshHub/public/games/lexicon"
+    },
+    "score": 500
+  },
+  {
+    "id": "aagameadventure",
+    "name": "AA Game Adventure",
+    "tags": [
+      "game",
+      "adventure",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/aa-game-adventure/index.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "dnd-spider-queen",
+    "name": "Dnd - Spider Queen",
+    "tags": [
+      "game",
+      "dnd",
+      "spider-queen",
+      "react",
+      "browser",
+      "playable"
+    ],
+    "url": "https://joshuaparrisdadlan-stack.github.io/campaign-copilot/",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "dnd-rpg-python",
+    "name": "D&D RPG Dungeon (Python)",
+    "tags": [
+      "game",
+      "dnd",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/dnd-rpg-dungeon/index.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "newgame-prototype",
+    "name": "NewGame JS Prototype",
+    "tags": [
+      "game",
+      "javascript",
+      "prototype",
+      "playable"
+    ],
+    "url": "/games/newgame/index.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "buckland-blocks-1",
+    "name": "Buckland Blocks 1",
+    "tags": [
+      "game",
+      "buckland",
+      "blocks",
+      "browser",
+      "playable"
+    ],
+    "url": "/games/buckland-blocks/index.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "wastes-courier-roguelike",
+    "name": "Wastes Courier Roguelike",
+    "tags": [
+      "game",
+      "roguelike",
+      "browser",
+      "playable"
+    ],
+    "url": "https://joshualparris.github.io/wastes-courier-roguelike/",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "lexicon-journal",
+    "name": "Lexicon Journal",
+    "tags": [
+      "game",
+      "lexicon",
+      "journal",
+      "download",
+      "playable"
+    ],
+    "url": "/docs/lexicon-journal.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "starhaven-game",
+    "name": "StarHaven",
+    "tags": [
+      "game",
+      "mystery",
+      "text",
+      "playable"
+    ],
+    "url": null,
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 500
+  },
+  {
+    "id": "whispering-wilds-v1",
+    "name": "Whispering Wilds v1",
+    "tags": [
+      "game",
+      "wilds",
+      "v1",
+      "github-pages"
+    ],
+    "url": "https://joshuaparris-max.github.io/WhirringWilderness/",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "whispering-wilds-v2",
+    "name": "Whispering Wilds v2",
+    "tags": [
+      "game",
+      "wilds",
+      "v2",
+      "github-pages"
+    ],
+    "url": "https://joshuaparrisdadlan-stack.github.io/whispering-wilds/",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "whispering-wilds-itch",
+    "name": "Whispering Wilds (itch)",
+    "tags": [
+      "game",
+      "wilds",
+      "itch"
+    ],
+    "url": "https://joshualparris.itch.io/whisperingwilds",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "mystery-depths-itch",
+    "name": "Mystery Depths (itch)",
+    "tags": [
+      "game",
+      "mystery-depths",
+      "itch"
+    ],
+    "url": "https://joshualparris.itch.io/mysterydepths",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "mystery-depths-gh",
+    "name": "Mystery Depths (GH)",
+    "tags": [
+      "game",
+      "mystery-depths",
+      "github-pages"
+    ],
+    "url": "https://joshuaparrisdadlan-stack.github.io/MysteriousDepths/",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "simple-rpg-itch",
+    "name": "Simple RPG (itch)",
+    "tags": [
+      "game",
+      "rpg",
+      "itch"
+    ],
+    "url": "https://joshualparris.itch.io/simplerpg",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "null-itch",
+    "name": "Null (itch)",
+    "tags": [
+      "game",
+      "null",
+      "itch"
+    ],
+    "url": "https://joshualparris.itch.io/null-html-game",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "null-gh",
+    "name": "Null (GH)",
+    "tags": [
+      "game",
+      "null",
+      "github-pages"
+    ],
+    "url": "https://joshuaparrisdadlan-stack.github.io/Null/",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "energy-quest",
+    "name": "Energy Quest",
+    "tags": [
+      "game",
+      "energy",
+      "todo-publish"
+    ],
+    "url": "/docs/energy-quest.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "josh-tap-app",
+    "name": "JoshTapApp",
+    "tags": [
+      "game",
+      "tap",
+      "mobile",
+      "todo-publish"
+    ],
+    "url": "https://drive.google.com/drive/folders/1SmGSyihyshyLPoJxzglID3C2Ot4h2eEU",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "neverwinter-game",
+    "name": "Neverwinter Game",
+    "tags": [
+      "game",
+      "neverwinter",
+      "workspace",
+      "local"
+    ],
+    "url": "/games/neverwinter-tales/index.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "neverwinter-game-fixed",
+    "name": "Neverwinter Game (Fixed)",
+    "tags": [
+      "game",
+      "neverwinter",
+      "workspace",
+      "local",
+      "text-adventure",
+      "vue"
+    ],
+    "url": "/games/neverwinter-tales/index.html",
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  },
+  {
+    "id": "starhaven-mystery",
+    "name": "Starhaven Mystery",
+    "tags": [
+      "game",
+      "mystery",
+      "workspace",
+      "local"
+    ],
+    "url": null,
+    "metrics": {
+      "totalLines": 0,
+      "totalFiles": 0,
+      "hasBuildOutput": false,
+      "found": false,
+      "location": ""
+    },
+    "score": 0
+  }
+]

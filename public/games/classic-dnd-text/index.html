@@ -89,10 +89,10 @@
   <script>
     if(window.JoshHubHeader && window.JoshHubHeader.ensure) window.JoshHubHeader.ensure();
     // ensure minimap shows at least a placeholder
-    const mapCanvas = document.getElementById('map-canvas');
-    if(mapCanvas && mapCanvas.getContext){
-      const ctx = mapCanvas.getContext('2d');
-      ctx.fillStyle = '#0b1220'; ctx.fillRect(0,0,mapCanvas.width,mapCanvas.height);
+    const _mapCanvas = document.getElementById('map-canvas');
+    if(_mapCanvas && _mapCanvas.getContext){
+      const ctx = _mapCanvas.getContext('2d');
+      ctx.fillStyle = '#0b1220'; ctx.fillRect(0,0,_mapCanvas.width,_mapCanvas.height);
       ctx.fillStyle = '#9aa3b5'; ctx.fillRect(90,90,20,20); // player marker
     }
   </script>

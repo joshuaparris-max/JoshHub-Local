@@ -127,7 +127,7 @@
           await withStore('uids','readwrite',s=>s.put(m));
         }
       }
-    }
+    },
     // Map a tag UID to a card id
     async mapUidToCard(uid, cardId){
       if(!uid) return;

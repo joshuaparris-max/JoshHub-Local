@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AA Game Adventure</title>
+    <link rel="stylesheet" crossorigin href="./assets/index-DNtx8YB6.css">
+    <style>
+      body { margin: 0; padding: 0; overflow: hidden; background: #000; font-family: sans-serif; }
+      canvas { display: block; width: 100vw; height: 100vh; }
+      #app { position: relative; width: 100vw; height: 100vh; }
+      #dialog-overlay {
+        display: none;
+        position: absolute;
+        bottom: 10%;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80%;
+        max-width: 600px;
+        background: rgba(0, 0, 0, 0.85);
+        border: 2px solid #fff;
+        border-radius: 8px;
+        padding: 20px;
+        color: #fff;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+        z-index: 1000;
+      }
+      #dialog-title { font-weight: bold; font-size: 1.2rem; margin-bottom: 10px; color: #f39c12; }
+      #dialog-text { font-size: 1.1rem; line-height: 1.4; margin-bottom: 15px; }
+      #dialog-hint { font-size: 0.9rem; color: #aaa; text-align: right; }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="game-canvas"></canvas>
+      <div id="dialog-overlay">
+        <div id="dialog-title">NPC</div>
+        <div id="dialog-text">Hello there, traveler!</div>
+        <div id="dialog-hint">Press SPACE to close</div>
+      </div>
+    </div>
+
+    <script>
+      const dialogs = {
+        'procedural_npc_0': { name: "Village Elder", text: "Welcome to the ruins! Beware of the Slimes." },
+        'procedural_npc_1': { name: "Merchant", text: "I have wares, if you have coin... just kidding, I'm just a placeholder NPC." },
+        'default': { name: "Stranger", text: "It's dangerous to go alone! Take this... Oh wait, I have nothing to give you." }
+      };
+
+      const overlay = document.getElementById('dialog-overlay');
+      const title = document.getElementById('dialog-title');
+      const text = document.getElementById('dialog-text');
+      
+      let dialogActive = false;
+
+      window.showDialog = function(npcId) {
+        if (dialogActive) return;
+        const data = dialogs[npcId] || dialogs['default'];
+        title.innerText = data.name;
+        text.innerText = data.text;
+        overlay.style.display = 'block';
+        dialogActive = true;
+      };
+
+      window.addEventListener('keydown', (e) => {
+        if (dialogActive && (e.code === 'Space' || e.code === 'Enter' || e.code === 'Escape' || e.code === 'KeyE')) {
+          overlay.style.display = 'none';
+          // Small timeout to prevent immediate re-triggering of 'E'
+          setTimeout(() => { dialogActive = false; }, 200);
+          e.stopPropagation();
+          e.preventDefault();
+        }
+      }, true); // Use capture phase to intercept
+    </script>
+    <script type="module" crossorigin src="./assets/index-GwEn_Nhp.js"></script>
+  </body>
+</html>

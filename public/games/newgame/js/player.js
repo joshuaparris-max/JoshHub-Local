@@ -96,4 +96,30 @@ export function isAlive(player) {
     return player.hp > 0;
 }
 
-
+export class Player {
+    constructor() {
+        this.name = '';
+        this.race = '';
+        this.class = '';
+        this.gridX = 10;
+        this.gridY = 10;
+        this.width = 32;
+        this.height = 32;
+        this.hp = 10;
+        this.maxHp = 10;
+        this.level = 1;
+        this.xp = 0;
+        this.xpToNext = 100;
+        this.gold = 25;
+        this.inventory = [];
+        this.keys = 0;
+        this.attributes = { str: 8, dex: 8, con: 8, int: 8, wis: 8, cha: 8 };
+        this.attack = 1;
+        this.defense = 1;
+        this.magicPower = 1;
+        this.moveCooldown = 0;
+        this.hitTimer = 0;
+        this.damageNumber = null;
+        this.damageNumberTimer = 0;
+    }
+}

@@ -43,6 +43,7 @@ export interface CatalogItem {
   relatedProjects?: string[];
   metadataConfidence?: MetadataConfidence;
   cleanupRecommendation?: string;
+  icon?: string;
 }
 
 export const apps: CatalogItem[] = [
@@ -129,12 +130,15 @@ export const apps: CatalogItem[] = [
     type: "game",
     category: "Games",
     status: "ok",
-    tags: ["game", "wilds", "v2", "github-pages"],
-    primaryUrl: "https://joshuaparrisdadlan-stack.github.io/whispering-wilds/",
+    tags: ["game", "wilds", "v2", "github-pages", "local", "workspace"],
+    description: "Twine v3 export hosted locally.",
+    primaryUrl: "/external/whispering-wilds/index.html",
     urls: [
-      { label: "Live", url: "https://joshuaparrisdadlan-stack.github.io/whispering-wilds/" },
+      { label: "Local Play", url: "/external/whispering-wilds/index.html" },
+      { label: "GitHub Pages", url: "https://joshuaparrisdadlan-stack.github.io/whispering-wilds/" },
       { label: "Repo", url: "https://github.com/joshuaparris-max/whispering-wilds" },
     ],
+    icon: "Gamepad",
   },
   {
     id: "whispering-wilds-itch",
@@ -678,7 +682,7 @@ export const apps: CatalogItem[] = [
     category: "Apps",
     status: "archived",
     tags: ["tap", "audio", "archived"],
-    primaryUrl: "https://publish.todo.invalid/tap-lite-mvp-removed",
+    primaryUrl: "",
     urls: [
       { label: "Storybook (Drive)", url: "https://drive.google.com/file/d/1yEP6R9ZXzY5YnbebzpYOZy-7VJ3vBXJh/view?usp=sharing" },
     ],
@@ -1207,7 +1211,7 @@ export const apps: CatalogItem[] = [
     category: "Family & Home",
     status: "ok",
     tags: ["family", "planning", "calendar", "playable"],
-    primaryUrl: "/docs/christmas-rotation.html",
+    primaryUrl: "",
     urls: [{ label: "View", url: "/docs/christmas-rotation.html" }],
     notes: "Long-range Christmas hosting rotation mapped out to ~2050 (static page).",
     nextAction: "Add reminders/exports if needed.",
@@ -1252,7 +1256,7 @@ export const apps: CatalogItem[] = [
     category: "Games",
     status: "ok",
     tags: ["game", "mystery", "text", "playable"],
-    primaryUrl: "/games/starhaven/",
+    primaryUrl: "",
     urls: [
       { label: "Play (Local)", url: "/games/starhaven/" },
       { label: "Play (Prototype)", url: "/games/max/index.html" },
@@ -1284,7 +1288,7 @@ export const apps: CatalogItem[] = [
     category: "Games",
     status: "ok",
     tags: ["app", "games", "workspace", "local"],
-    primaryUrl: "/external/Game-Booster/",
+    primaryUrl: "",
     urls: [{ label: "Open (Local)", url: "/external/Game-Booster/" }],
     notes: "Workspace app served via /external/Game-Booster/.",
     lastTouched: "2026-02",
@@ -1296,7 +1300,7 @@ export const apps: CatalogItem[] = [
     category: "Games",
     status: "ok",
     tags: ["app", "games", "workspace", "local"],
-    primaryUrl: "/external/Game-Fixer/",
+    primaryUrl: "",
     urls: [{ label: "Open (Local)", url: "/external/Game-Fixer/" }],
     notes: "Workspace app served via /external/Game-Fixer/.",
     lastTouched: "2026-02",
@@ -1308,7 +1312,7 @@ export const apps: CatalogItem[] = [
     category: "Health & Wellness",
     status: "ok",
     tags: ["health", "app", "workspace", "local"],
-    primaryUrl: "/external/Health-Data-Manager/",
+    primaryUrl: "",
     urls: [{ label: "Open (Local)", url: "/external/Health-Data-Manager/" }],
     notes: "Workspace app served via /external/Health-Data-Manager/.",
     lastTouched: "2026-02",
@@ -1320,7 +1324,7 @@ export const apps: CatalogItem[] = [
     category: "Apps",
     status: "ok",
     tags: ["app", "workspace", "local"],
-    primaryUrl: "/external/Hub-Improvement/",
+    primaryUrl: "",
     urls: [{ label: "Open (Local)", url: "/external/Hub-Improvement/" }],
     notes: "Workspace app served via /external/Hub-Improvement/.",
     lastTouched: "2026-02",
@@ -1332,7 +1336,7 @@ export const apps: CatalogItem[] = [
     category: "Apps",
     status: "ok",
     tags: ["app", "guardian", "workspace", "local"],
-    primaryUrl: "/external/Josh-Guardian/",
+    primaryUrl: "",
     urls: [{ label: "Open (Local)", url: "/external/Josh-Guardian/" }],
     notes: "Workspace app served via /external/Josh-Guardian/.",
     lastTouched: "2026-02",
@@ -1344,7 +1348,7 @@ export const apps: CatalogItem[] = [
     category: "Apps",
     status: "ok",
     tags: ["app", "platform", "workspace", "local"],
-    primaryUrl: "/external/Josh-Platform/",
+    primaryUrl: "/external/JoshPlatform/",
     urls: [{ label: "Open (Local)", url: "/external/Josh-Platform/" }],
     notes: "Workspace app served via /external/Josh-Platform/.",
     lastTouched: "2026-02",
@@ -1381,7 +1385,7 @@ export const apps: CatalogItem[] = [
     category: "Apps",
     status: "ok",
     tags: ["app", "nextjs", "workspace", "local"],
-    primaryUrl: "/external/NextJS-Expert/",
+    primaryUrl: "",
     urls: [{ label: "Open (Local)", url: "/external/NextJS-Expert/" }],
     notes: "Workspace app served via /external/NextJS-Expert/.",
     lastTouched: "2026-02",
@@ -1393,7 +1397,7 @@ export const apps: CatalogItem[] = [
     category: "Dubbo / DCS",
     status: "ok",
     tags: ["dubbo", "dcs", "workspace", "local"],
-    primaryUrl: "/docs/ourdcs.html",
+    primaryUrl: "",
     urls: [{ label: "Status", url: "/docs/ourdcs.html" }],
     notes: "Local workspace path is currently unavailable; see status page.",
     lastTouched: "2026-02",
@@ -1405,7 +1409,7 @@ export const apps: CatalogItem[] = [
     category: "Games",
     status: "ok",
     tags: ["game", "mystery", "workspace", "local"],
-    primaryUrl: "/external/StarhavenMystery/",
+    primaryUrl: "",
     urls: [{ label: "Open (Local)", url: "/external/StarhavenMystery/" }],
     notes: "Workspace game served via /external/StarhavenMystery/.",
     lastTouched: "2026-02",
@@ -1417,7 +1421,7 @@ export const apps: CatalogItem[] = [
     category: "Writing & Content",
     status: "ok",
     tags: ["docs", "wilds", "workspace", "local"],
-    primaryUrl: "/external/WhisperingWildsDocs/",
+    primaryUrl: "",
     urls: [{ label: "Open (Local)", url: "/external/WhisperingWildsDocs/" }],
     notes: "Workspace docs served via /external/WhisperingWildsDocs/.",
     lastTouched: "2026-02",
@@ -1611,6 +1615,7 @@ export const apps: CatalogItem[] = [
 export function getAppById(id: string): CatalogItem | undefined {
   return apps.find((item) => item.id === id);
 }
+
 
 
 

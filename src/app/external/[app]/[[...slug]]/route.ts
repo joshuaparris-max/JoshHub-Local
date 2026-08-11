@@ -44,12 +44,12 @@ export async function GET(
 
   // locate the app root (the folder that contains index.html)
   const possibleIndexCandidates = [
-    "index.html",
     path.join("dist", "index.html"),
     path.join("dist", "public", "index.html"),
     path.join("build", "index.html"),
     path.join("public", "index.html"),
     path.join("client", "index.html"),
+    "index.html",
   ];
 
   let appRootDir: string | null = null;
@@ -95,7 +95,12 @@ export async function GET(
     // Rewrite absolute-root asset URLs (src="/..." href="/..." srcset="/...")
     // so they point under /external/<app>/... and are served by this route.
     const prefix = `/external/${encodeURIComponent(app)}/`;
-    html = html.replace(/(\b(?:src|href|srcset)\s*=\s*["'])\//gi, `$1${prefix}`);
+    html = html.replace(/(\b(?:src|href|srcset)\s*=\s*["'])\/([^"']*)/gi, (match, p1, p2) => {
+      // If it already starts with external/ or the app name, handle it cleanly
+      if (p2.startsWith(`external/`)) return match;
+      if (p2.startsWith(`${app}/`)) return `${p1}${prefix}${p2.substring(app.length + 1)}`;
+      return `${p1}${prefix}${p2}`;
+    });
 
     return new Response(html, { status: 200, headers: { "Content-Type": "text/html; charset=utf-8" } });
   }

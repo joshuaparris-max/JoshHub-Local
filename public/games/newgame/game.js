@@ -1267,7 +1267,7 @@ function updatePlayer(dt) {
             // Check tutorial progress
             checkTutorialProgress();
         }
-    }
+
     
     // Check for NPCs - allow adjacent interaction (within 1 tile)
     const spaceDown = game.keys[' '] || game.keys['Space'];
