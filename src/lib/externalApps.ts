@@ -50,6 +50,7 @@ export async function discoverExternalApps(): Promise<CatalogItem[]> {
       const lower = d.name.toLowerCase();
       const isNeverwinter = lower.includes("neverwinter");
       const isDinnerDecider = lower === "dinner-decider";
+      const isForbiddenQuests = lower.includes("forbiddenquests") || lower.includes("forbidden-quests");
       const item: CatalogItem = {
         id: `external-${d.name}`,
         name: d.name,
@@ -61,12 +62,16 @@ export async function discoverExternalApps(): Promise<CatalogItem[]> {
           ? "/games/neverwinter-tales/index.html"
           : isDinnerDecider
             ? "/games/dinner-decider/index.html"
-            : `/external/${encodeURIComponent(d.name)}/`,
+            : isForbiddenQuests
+              ? "/games/forbidden-quests/index.html"
+              : `/external/${encodeURIComponent(d.name)}/`,
         urls: isNeverwinter
           ? [{ label: "Local (fixed)", url: "/games/neverwinter-tales/index.html" }]
           : isDinnerDecider
             ? [{ label: "Play (Local)", url: "/games/dinner-decider/index.html" }]
-            : [{ label: "Local", url: `/external/${encodeURIComponent(d.name)}/` }],
+            : isForbiddenQuests
+              ? [{ label: "Play (Local)", url: "/games/forbidden-quests/index.html" }]
+              : [{ label: "Local", url: `/external/${encodeURIComponent(d.name)}/` }],
       };
       entries.push(item);
     }
