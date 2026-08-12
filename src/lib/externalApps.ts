@@ -13,19 +13,18 @@ function findIndexFileIn(dir: string): string | null {
     path.join("client", "index.html"),
   ];
   for (const c of candidates) {
-    const p = path.join(dir, c);
-    if (fs.existsSync(p) && fs.statSync(p).isFile()) return p;
+    const p = path.join(/*turbopackIgnore: true*/ dir, c);
+    if (fs.existsSync(/*turbopackIgnore: true*/ p) && fs.statSync(/*turbopackIgnore: true*/ p).isFile()) return p;
   }
 
-  // check one level deep (e.g., Dinner-Decider/Dinner-Decider/client/index.html)
   try {
-    const subents = fs.readdirSync(dir, { withFileTypes: true });
+    const subents = fs.readdirSync(/*turbopackIgnore: true*/ dir, { withFileTypes: true });
     for (const s of subents) {
       if (!s.isDirectory()) continue;
-      const p = path.join(dir, s.name);
+      const p = path.join(/*turbopackIgnore: true*/ dir, s.name);
       for (const c of candidates) {
-        const candidatePath = path.join(p, c);
-        if (fs.existsSync(candidatePath) && fs.statSync(candidatePath).isFile()) return candidatePath;
+        const candidatePath = path.join(/*turbopackIgnore: true*/ p, c);
+        if (fs.existsSync(/*turbopackIgnore: true*/ candidatePath) && fs.statSync(/*turbopackIgnore: true*/ candidatePath).isFile()) return candidatePath;
       }
     }
   } catch (e) {
@@ -40,15 +39,14 @@ export async function discoverExternalApps(): Promise<CatalogItem[]> {
   const workspaceRoot = path.resolve(cwd, "..");
   let entries: CatalogItem[] = [];
   try {
-    const dirents = fs.readdirSync(workspaceRoot, { withFileTypes: true });
+    const dirents = fs.readdirSync(/*turbopackIgnore: true*/ workspaceRoot, { withFileTypes: true });
     for (const d of dirents) {
       if (!d.isDirectory()) continue;
       if (KNOWN_EXCLUDES.has(d.name)) continue;
-      const projectPath = path.join(workspaceRoot, d.name);
+      const projectPath = path.join(/*turbopackIgnore: true*/ workspaceRoot, d.name);
       const indexPath = findIndexFileIn(projectPath);
       if (!indexPath) continue;
 
-      // If this project looks like the Neverwinter workspace, point it to the fixed local build
       const lower = d.name.toLowerCase();
       const isNeverwinter = lower.includes("neverwinter");
       const isDinnerDecider = lower === "dinner-decider";

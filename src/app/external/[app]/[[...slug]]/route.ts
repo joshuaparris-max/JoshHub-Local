@@ -57,23 +57,23 @@ export async function GET(
 
   // check root and common locations
   for (const c of possibleIndexCandidates) {
-    const p = path.join(projectRoot, c);
-    if (fs.existsSync(p) && fs.statSync(p).isFile()) {
+    const p = path.join(/*turbopackIgnore: true*/ projectRoot, c);
+    if (fs.existsSync(/*turbopackIgnore: true*/ p) && fs.statSync(/*turbopackIgnore: true*/ p).isFile()) {
       indexPath = p;
       appRootDir = path.dirname(p);
       break;
     }
   }
 
-  // check one level deep (e.g., Dinner-Decider/Dinner-Decider/client/index.html)
+  // check subdirectories one level deep
   if (!indexPath) {
     try {
-      const subs = fs.readdirSync(projectRoot, { withFileTypes: true });
-      for (const s of subs) {
+      const subents = fs.readdirSync(/*turbopackIgnore: true*/ projectRoot, { withFileTypes: true });
+      for (const s of subents) {
         if (!s.isDirectory()) continue;
         for (const c of possibleIndexCandidates) {
-          const p = path.join(projectRoot, s.name, c);
-          if (fs.existsSync(p) && fs.statSync(p).isFile()) {
+          const p = path.join(/*turbopackIgnore: true*/ projectRoot, s.name, c);
+          if (fs.existsSync(/*turbopackIgnore: true*/ p) && fs.statSync(/*turbopackIgnore: true*/ p).isFile()) {
             indexPath = p;
             appRootDir = path.dirname(p);
             break;
@@ -86,11 +86,13 @@ export async function GET(
     }
   }
 
-  if (!appRootDir || !indexPath) return new Response("Not Found", { status: 404 });
+  if (!indexPath || !appRootDir) {
+    return new Response("Not Found", { status: 404 });
+  }
 
-  // If no slug, serve the located index file
-  if (slug.length === 0) {
-    let html = fs.readFileSync(indexPath, "utf8");
+  // If slug is empty, serve the index file directly (which works around Next.js folder routing)
+  if (!slug || slug.length === 0 || (slug.length === 1 && slug[0] === "index.html")) {
+    let html = fs.readFileSync(/*turbopackIgnore: true*/ indexPath, "utf8");
 
     // Rewrite absolute-root asset URLs (src="/..." href="/..." srcset="/...")
     // so they point under /external/<app>/... and are served by this route.
@@ -102,14 +104,17 @@ export async function GET(
       return `${p1}${prefix}${p2}`;
     });
 
-    return new Response(html, { status: 200, headers: { "Content-Type": "text/html; charset=utf-8" } });
+    return new Response(html, {
+      status: 200,
+      headers: { "Content-Type": "text/html; charset=utf-8" },
+    });
   }
 
   // Serve assets relative to the discovered appRootDir
-  const relPath = path.join(...slug);
-  const filePath = path.join(appRootDir, relPath);
-  if (fs.existsSync(filePath) && fs.statSync(filePath).isFile()) {
-    const buffer = fs.readFileSync(filePath);
+  const relPath = path.join(/*turbopackIgnore: true*/ ...slug);
+  const filePath = path.join(/*turbopackIgnore: true*/ appRootDir, relPath);
+  if (fs.existsSync(/*turbopackIgnore: true*/ filePath) && fs.statSync(/*turbopackIgnore: true*/ filePath).isFile()) {
+    const buffer = fs.readFileSync(/*turbopackIgnore: true*/ filePath);
     const ext = path.extname(filePath).replace(".", "") || "";
     const ct = contentTypeFromExt(ext);
     return new Response(buffer, { status: 200, headers: { "Content-Type": ct } });
